@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+<LinearLayout
+    android:id="@+id/nicknameSection"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:visibility="visible"
+    android:paddingTop="32dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Унеси надимак:"
+        android:textSize="@dimen/text_size_bigger"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:paddingBottom="32dp"/>
+
+
+    <EditText
+        android:id="@+id/etAddChildNickname"
+        android:textSize="@dimen/text_size_bigger"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/twAddChildError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff0000"
+        android:textSize="@dimen/text_size"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/btnNextToBirthdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/button_text"
+        android:text="@string/next_text" />
+</LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:visibility="gone"
+        android:id="@+id/birthdateSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="32dp">
+
+
+        <TextView
+            android:id="@+id/twDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="32dp"
+            android:text="Унеси датум рођења:"
+            android:textSize="@dimen/text_size_bigger"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <DatePicker
+            android:id="@+id/dpBirthdate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/twDate" />
+
+        <Button
+            android:id="@+id/btnNextToAvatar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/next_text"
+            android:textSize="@dimen/button_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/dpBirthdate" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+<LinearLayout
+    android:id="@+id/avatarSection"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="32dp"
+    android:visibility="gone"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_bigger"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:text="Изабери аватара:"
+        android:paddingBottom="32dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvAvatars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnFinish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/button_text"
+        android:text="@string/end" />
+</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#81C784</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:colorButtonNormal">#4CAF50</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textViewStyle">@style/FontStyle</item>
+    </style>
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">@dimen/bottom_nav_text_size</item>
+    </style>
+
+    <style name="AddChildTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#81C784</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:colorButtonNormal">#4CAF50</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textViewStyle">@style/FontStyle</item>
+    </style>
+    <style name="FontStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/rubik</item>
+    </style>
+
+
+    <style name="RoundedBottomCorners">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">100dp</item>
+        <item name="cornerSizeBottomRight">100dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+    </style>
+    <style name="CustomDatePickerTheme" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="android:windowBackground">@color/black_overlay</item>
+    </style>
+    <style name="CustomButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    <style name="KeyboardButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button_key</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+</resources>

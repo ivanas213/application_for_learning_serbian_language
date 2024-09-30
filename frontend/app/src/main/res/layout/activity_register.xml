@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activities.RegisterActivity"
+    android:background="@color/green">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/login_margin"
+        android:background="@drawable/et_rounded"
+        app:cardCornerRadius="35dp"
+        app:cardElevation="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <TextView
+                android:id="@+id/twRegisterText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Региструјте се"
+                android:textAlignment="center"
+                android:textColor="@color/green_ligth"
+                android:textSize="@dimen/log_reg_title"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/etRegisterEmail"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/log_reg_et_width"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/et_rounded"
+                android:drawableLeft="@drawable/baseline_person_24"
+                android:drawablePadding="8dp"
+                android:hint="Имејл адреса"
+                android:padding="8dp"
+                android:textColor="@color/black"
+                android:textColorHighlight="@color/cardview_dark_background" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/log_reg_et_width"
+                android:layout_marginTop="20dp">
+
+                <EditText
+                    android:id="@+id/etRegisterPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/et_rounded"
+                    android:drawableLeft="@drawable/baseline_lock_24"
+                    android:drawablePadding="8dp"
+                    android:hint="Лозинка"
+                    android:inputType="textPassword"
+                    android:padding="8dp"
+                    android:textColor="@color/black"
+                    android:textColorHighlight="@color/cardview_dark_background" />
+
+                <ImageView
+                    android:id="@+id/srcEyeRegisterPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginEnd="-18dp"
+                    android:layout_marginRight="-18dp"
+                    android:padding="8dp"
+                    android:src="@drawable/eyex" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/log_reg_et_width"
+                android:layout_marginTop="20dp">
+
+                <EditText
+                    android:id="@+id/etRegisterPasswordAgain"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/et_rounded"
+                    android:drawableLeft="@drawable/baseline_lock_24"
+                    android:drawablePadding="8dp"
+                    android:hint="Поновите лозинку"
+                    android:inputType="textPassword"
+                    android:padding="8dp"
+                    android:textColor="@color/black"
+                    android:textColorHighlight="@color/cardview_dark_background" />
+
+                <ImageView
+                    android:id="@+id/srcEyeRegisterPasswordAgain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginEnd="-18dp"
+                    android:layout_marginRight="-18dp"
+                    android:padding="8dp"
+                    android:src="@drawable/eyex" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/twRegisterError"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="#ff0000"
+                />
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@color/green_ligth"
+                android:text="Региструјте се"
+                android:textSize="@dimen/button_text"
+                app:cornerRadius="20dp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/twRegisterToLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:padding="8dp"
+        android:text="Већ имате налог? Улогујте се!"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/text_size_smaller" />
+</LinearLayout>
+
+
+

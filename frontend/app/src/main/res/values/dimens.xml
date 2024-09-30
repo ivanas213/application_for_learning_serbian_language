@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_size">24sp</dimen>
+    <dimen name="text_size_bigger">32sp</dimen>
+    <dimen name="text_size_smaller">16sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_width">100dp</dimen>
+    <dimen name="table_text_size">18sp</dimen>
+    <dimen name="table_padding">16dp</dimen>
+    <dimen name="lesson_title">32sp</dimen>
+    <dimen name="button_text">18sp</dimen>
+    <dimen name="button_text_hangman">16sp</dimen>
+    <dimen name="icon_size">80dp</dimen>
+    <dimen name="topic_name">24sp</dimen>
+    <dimen name="lesson_name">16sp</dimen>
+    <dimen name="bottom_nav_icon_size">36dp</dimen>
+    <dimen name="bottom_nav_text_size">18sp</dimen>
+    <dimen name="bottom_nav_height">80dp</dimen>
+    <dimen name="settings_text">16dp</dimen>
+    <dimen name="question_indicator_text">20sp</dimen>
+    <dimen name="classic_question_text">32sp</dimen>
+    <dimen name="classic_question_answer">20sp</dimen>
+    <dimen name="fill_question_title">32sp</dimen>
+    <dimen name="matching_text_size">22sp</dimen>
+    <dimen name="multiple_choice_title">32sp</dimen>
+    <dimen name="spelling_correction_tw">24sp</dimen>
+    <dimen name="spelling_correction_et">28sp</dimen>
+    <dimen name="true_false_text">32sp</dimen>
+    <dimen name="true_false_buttons">26sp</dimen>
+    <dimen name="fill_text_size">22sp</dimen>
+    <dimen name="multiple_choice_options">9sp</dimen>
+    <dimen name="bottom_text_size">18sp</dimen>
+    <dimen name="hangman_image_height">100dp</dimen>
+    <dimen name="key">60dp</dimen>
+    <dimen name="keyText">20sp</dimen>
+    <dimen name="hangman_padding">20dp</dimen>
+    <dimen name="letter">14dp</dimen>
+    <dimen name="dim_child">48dp</dimen>
+    <dimen name="child_image_bigger">75dp</dimen>
+    <dimen name="user_text_size">28sp</dimen>
+    <dimen name="log_reg_title">36sp</dimen>
+    <dimen name="log_reg_et_width">50dp</dimen>
+    <dimen name="login_margin">30dp</dimen>
+    <dimen name="matching">6sp</dimen>
+</resources>
