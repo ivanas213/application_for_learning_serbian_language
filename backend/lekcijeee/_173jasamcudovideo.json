@@ -1,0 +1,242 @@
+{
+    "title": "Ја сам чудо видео\n (шаљива народна песма)",
+    "description": "",
+    "topic":"66eeb052dec7c96b57daa5da",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>За ту твоју лепу смишљеност ја морам<br>свуда да те хвалим,<br>друкчије<br>не могу:<br>јер нацртао си ме како јашем коња,<br>али коња,<br>друже,<br>са дванаест ногу!</p><p><br>Шта више и мој си шешир нацртао,<br>то може да види<br>чак и које<br>слеп -<br>ал' само не могу никако да схватим<br>зашто си га коњу -<br>ставио на реп.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/V3TsMPQKVQM?si=M2-kQ3QcTouyx5Ud"
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>преоравати</font> – правити нове бразде у земљи<br> - <font color='#42f545'>товар</font> – терет",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+    ]}
+    [
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "У песми 'Ја сам чудо видео', шта ради пуж?",
+            "options": [
+              "Туче се с биком",
+              "Носи товар",
+              "Вуче кола",
+              "Сече бркове"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Туче се с биком",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко вуче кола у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Коза",
+              "Конопац",
+              "Мравац",
+              "Зец"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "возила"],
+            "grade": 1,
+            "correctAnswerMC": "Коза",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта ради мрав у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Сече бркове",
+              "Носи товар",
+              "Служи жабу",
+              "Дружи се с мачком"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Сече бркове",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Где спава коњ у песми 'Ја сам чудо видео'?",
+            "options": [
+              "На грани",
+              "У штали",
+              "На ливади",
+              "У дворишту"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "место"],
+            "grade": 1,
+            "correctAnswerMC": "На грани",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта ради зец у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Преорава пут",
+              "Јаше коња",
+              "Дружи се с мачком",
+              "Носи шешир"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Преорава пут",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко носи товар у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Мува",
+              "Пуж",
+              "Вук",
+              "Зец"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Мува",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко проси у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Вук",
+              "Миш",
+              "Мачка",
+              "Рода"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Вук",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко служи жабу у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Рода",
+              "Миш",
+              "Мрав",
+              "Вук"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "радња"],
+            "grade": 1,
+            "correctAnswerMC": "Рода",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко се дружи у песми 'Ја сам чудо видео'?",
+            "options": [
+              "Миш и мачка",
+              "Мрав и зец",
+              "Вук и жаба",
+              "Пуж и бик"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "пријатељи"],
+            "grade": 1,
+            "correctAnswerMC": "Миш и мачка",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се назива песма у којој се 'пуж туче с биком'?",
+            "options": [
+              "Ја сам чудо видео",
+              "Зец преорава пут",
+              "Рода служи жабу",
+              "Миш и мачка се друже"
+            ],
+            "type": "књижевност",
+            "tags": ["назив песме", "ликови"],
+            "grade": 1,
+            "correctAnswerMC": "Ја сам чудо видео",
+            "topic": "66eeb052dec7c96b57daa5da"
+          }
+        }
+      ]
+      

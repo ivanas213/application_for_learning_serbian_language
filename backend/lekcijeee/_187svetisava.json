@@ -1,0 +1,231 @@
+{
+    "title": "Свети Сава",
+    "description": "",
+    "topic":"66eeba92dec7c96b57daa792",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Свети Сава је био први српски учитељ. Путовао&nbsp;је по Србији и учио људе да верују у Бога, да читају&nbsp;и пишу, да буду поштени, вредни, праведни и добри.<br>Отварао је прве школе и болнице у Србији.<br>Бринуо је о сиромашним и болесним људима.<br>Тако је много учинио за српски народ у Србији.<br>Свети Сава је заслужио наше велико поштовање,&nbsp;захвалност и љубав.<br>Ми га данас славимо као великог свеца, учитеља&nbsp;и заштитника.<br>Свети Сава је наше велико богатство.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"из часописа за децу \"Свети Сава\"",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"right"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Дан Светог Саве, двадесет седми јануар, слави се као школски празник.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>светац</font> – онај који је проглашен светим, безгрешним",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+    ]}
+    [
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је Свети Сава учио људе?",
+            "options": [
+              "Да верују у Бога, да читају и пишу.",
+              "Да се баве спортом.",
+              "Да се боре у рату.",
+              "Да праве уметничка дела."
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "учење"],
+            "grade": 1,
+            "correctAnswerMC": "Да верују у Бога, да читају и пишу.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је Свети Сава отворио у Србији?",
+            "options": [
+              "Прве школе и болнице.",
+              "Прве библиотеке.",
+              "Прве цркве.",
+              "Прве позоришне сале."
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "историја"],
+            "grade": 1,
+            "correctAnswerMC": "Прве школе и болнице.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Коме је Свети Сава помагао?",
+            "options": [
+              "Сиромашним и болесним људима.",
+              "Ратницима.",
+              "Царевима.",
+              "Учитељима."
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "помоћ"],
+            "grade": 1,
+            "correctAnswerMC": "Сиромашним и болесним људима.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Зашто људи поштују Светог Саву?",
+            "options": [
+              "Зато што је много учинио за српски народ.",
+              "Зато што је био снажан ратник.",
+              "Зато што је био познати песник.",
+              "Зато што је био први краљ Србије."
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "поучно"],
+            "grade": 1,
+            "correctAnswerMC": "Зато што је много учинио за српски народ.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Као шта данас славимо Светог Саву?",
+            "options": [
+              "Као великог свеца, учитеља и заштитника.",
+              "Као ратника и војсковођу.",
+              "Као краља и владара.",
+              "Као уметника и песника."
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "слава"],
+            "grade": 1,
+            "correctAnswerMC": "Као великог свеца, учитеља и заштитника.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Када славимо Дан Светог Саве?",
+            "options": [
+              "Двадесет седмог јануара.",
+              "Првог фебруара.",
+              "Двадесет првог децембра.",
+              "Трећег марта."
+            ],
+            "type": "књижевност",
+            "tags": ["празник", "слава"],
+            "grade": 1,
+            "correctAnswerMC": "Двадесет седмог јануара.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта значи реч 'светац'?",
+            "options": [
+              "Онај који је проглашен светим, безгрешним.",
+              "Онај који се бави учењем.",
+              "Онај који живи у манастиру.",
+              "Онај који се бави уметношћу."
+            ],
+            "type": "књижевност",
+            "tags": ["непознате речи", "значење"],
+            "grade": 1,
+            "correctAnswerMC": "Онај који је проглашен светим, безгрешним.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је Свети Сава учинио за српски народ?",
+            "options": [
+              "Отварао школе и болнице, учио људе да буду добри.",
+              "Освојио многе ратове.",
+              "Писао књиге и песме."
+            ],
+            "type": "књижевност",
+            "tags": ["догађаји", "ликови"],
+            "grade": 1,
+            "correctAnswerMC": "Отварао школе и болнице, учио људе да буду добри.",
+            "topic": "66eeba92dec7c96b57daa792"
+          }
+        }
+      ]
+      

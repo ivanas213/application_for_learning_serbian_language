@@ -1,0 +1,247 @@
+{
+    "title": "Zima\n (Vladislav Petković Dis)",
+    "description": "",
+    "topic":"66eda57fdec7c96b57da95d4",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Nestalo je ptičijih pesama,<br>Sad sneg pada il' svud vetar bri&scaron;e:<br>Kratke dane brzo nosi tama,<br>Nigde cvetka da nam zamiri&scaron;e.</p><p><br>Oti&scaron;le su i rode i laste,<br>Ostavile svoja prazna gnezda,<br>Mesto bilja sad sneg samo raste,<br>Sunce hladno k&ocirc; velika zvezda.</p><p><br>Za nas decu nije stra&scaron;na zima,<br>Sneg gazimo svi veseli tako,<br>S grudvama smo ko sa cvetovima,<br>Mlada srca sve podnose lako.</p><p><br>A čim oluj otpočne da duva,<br>Čim mraz stegne, lapavica dođe,<br>Topla soba udobno nas čuva,<br>Zima brzo za nas decu prođe.</p><p><br>Topla soba kod kuće i &scaron;kole,<br>I učitelj topal pogled ima,<br>I na&scaron;a se srca toplo mole,<br>Dok na polju ljuta vlada zima.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p><font color='#34cdeb'>Pesnički jezik</font> se razlikuje od svakodnevnog jezika. On je slikovit pa zato&nbsp;pesničke opise nazivamo <font color='#34cdeb'>pesničkim slikama</font>. Njima pesnik dočarava ono&nbsp;&scaron;to opisuje, kao i svoja osećanja i raspoloženja. Deo pesničkog jezika je <font color='#34cdeb'>i&nbsp;rima</font>. Ona doprinosi da pesme budu zvučnije.</p>",                    
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Nepoznate reči:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>oluj</font> – skraćeni oblik reči oluja<br> - <font color='#42f545'>lapavica</font> – susnežica, vlažan sneg<br> - <font color='#42f545'>topal</font> – topao",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+    ]}
+    [
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се у песми 'Зима' описује време у природи?",
+            "options": [
+              "Птице певају весело",
+              "Снег пада, а ветар дува",
+              "Цветови су расцветани",
+              "Сунце је топло и јако"
+            ],
+            "type": "књижевност",
+            "tags": ["описи", "природа"],
+            "grade": 2,
+            "correctAnswerMC": "Снег пада, а ветар дува",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта замењује биљке у песми 'Зима'?",
+            "options": [
+              "Сунце",
+              "Снег",
+              "Цвеће",
+              "Птице"
+            ],
+            "type": "књижевност",
+            "tags": ["зима", "природа"],
+            "grade": 2,
+            "correctAnswerMC": "Снег",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се деца односе према зими у песми 'Зима'?",
+            "options": [
+              "Страхују од хладноће",
+              "Весело се играју",
+              "Жале због одсуства пролећа",
+              "Осећају се уморно"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "зима"],
+            "grade": 2,
+            "correctAnswerMC": "Весело се играју",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је за децу симбол топлине у песми 'Зима'?",
+            "options": [
+              "Грејање на сунцу",
+              "Топла соба и учитељ",
+              "Пламен ватре у природи",
+              "Топла зимска одећа"
+            ],
+            "type": "књижевност",
+            "tags": ["симболи", "зима"],
+            "grade": 2,
+            "correctAnswerMC": "Топла соба и учитељ",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта се дешава са птицама у песми 'Зима'?",
+            "options": [
+              "Остају у својим гнездима",
+              "Певају током целе зиме",
+              "Одлете у топлије крајеве",
+              "Гнезде се у снегу"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "природа"],
+            "grade": 2,
+            "correctAnswerMC": "Одлете у топлије крајеве",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се описује сунце у песми 'Зима'?",
+            "options": [
+              "Као топло и пријатно",
+              "Као хладно и удаљено",
+              "Као сунчево зрачење које пржи",
+              "Као сунце које обасјава снег"
+            ],
+            "type": "књижевност",
+            "tags": ["симболи", "природа"],
+            "grade": 2,
+            "correctAnswerMC": "Као хладно и удаљено",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта за децу у песми 'Зима' брзо пролази?",
+            "options": [
+              "Лето",
+              "Пролеће",
+              "Зима",
+              "Јесен"
+            ],
+            "type": "књижевност",
+            "tags": ["време", "зима"],
+            "grade": 2,
+            "correctAnswerMC": "Зима",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта деца замишљају да су грудве у песми 'Зима'?",
+            "options": [
+              "Цветови",
+              "Каменчићи",
+              "Играчке",
+              "Лопте"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "игра"],
+            "grade": 2,
+            "correctAnswerMC": "Цветови",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта представља заштиту за децу током зиме у песми 'Зима'?",
+            "options": [
+              "Топла јакна",
+              "Топла соба",
+              "Густ снег",
+              "Топли рукавице"
+            ],
+            "type": "књижевност",
+            "tags": ["заштита", "зима"],
+            "grade": 2,
+            "correctAnswerMC": "Топла соба",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како је зима описана у односу на децу у песми 'Зима'?",
+            "options": [
+              "Као непријатна и дуга",
+              "Као забавна и брзо пролази",
+              "Као досадна и мрачна",
+              "Као време за одмор"
+            ],
+            "type": "књижевност",
+            "tags": ["описи", "време"],
+            "grade": 2,
+            "correctAnswerMC": "Као забавна и брзо пролази",
+            "topic": "66eda57fdec7c96b57da95d4"
+          }
+        }
+      ]
+      

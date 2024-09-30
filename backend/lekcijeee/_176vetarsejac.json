@@ -1,0 +1,354 @@
+{
+    "title": "Ветар сејач\n (Мира Алечковић)",
+    "description": "",
+    "topic":"66eeb618dec7c96b57daa666",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Ветар дува као луд,<br>а Неда се смеје.<br>Мама каже: он сад свуд<br>путем цвеће сеје.</p><p>Дограбио семење<br>са ливаде зелене<br>и носи по зраку.<br>Распукао балончић<br>жутоме маслачку.</p><p>Булкама је отео<br>ситно црно семе.<br>Сеје, сеје &ndash; ливаде<br>да буду шарене.</p><p>Ветар дува као луд,<br>а Неда се смеје.<br>&ndash; Нека му је срећан пут<br>када цвеће веје.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/w4gQqU8AlHk?si=Zaw-LYUA0ostWjI-" 
+        }},
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>булка</font> – пољски цвет црвене боје<br> - <font color='#42f545'>дограбити</font> – нагло ухватити, зграбити<br> - <font color='#42f545'>зрак</font> – ваздух",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+        
+    ]}
+    [
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта се догодило кад је дошло пролеће у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Снег је поново пао",
+        "Сунце је огрејало и цвет је процветао",
+        "Ласте су отишле",
+        "Дошла је зима"
+      ],
+      "type": "књижевност",
+      "tags": ["пролеће", "песма"],
+      "grade": 1,
+      "correctAnswerMC": "Сунце је огрејало и цвет је процветао",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Које птице су се вратиле у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Голубови и врапци",
+        "Ласте и роде",
+        "Вране и гавранови",
+        "Орао и соко"
+      ],
+      "type": "књижевност",
+      "tags": ["птице", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Ласте и роде",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта се десило са бистром водом у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Заледила се",
+        "Пролила се",
+        "Зажуборила је",
+        "Исушила се"
+      ],
+      "type": "књижевност",
+      "tags": ["вода", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Зажуборила је",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта раде пчеле у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Почеле су да скупљају мед",
+        "Спавају у кошници",
+        "Лете на север",
+        "Траже воду"
+      ],
+      "type": "књижевност",
+      "tags": ["пчеле", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Почеле су да скупљају мед",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта су деца бацила када је дошло пролеће у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Капе и рукавице",
+        "Бунде и скије",
+        "Шалове и чизме",
+        "Кишобране"
+      ],
+      "type": "књижевност",
+      "tags": ["деца", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Бунде и скије",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта је полетело на небу у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Авион",
+        "Змај",
+        "Птица",
+        "Балон"
+      ],
+      "type": "књижевност",
+      "tags": ["змај", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Змај",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Који део природе је оживео у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Голo грање",
+        "Реке",
+        "Планине",
+        "Пећине"
+      ],
+      "type": "књижевност",
+      "tags": ["природа", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Голo грање",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта је заменио снег у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Лед",
+        "Цвеће",
+        "Јесење лишће",
+        "Песак"
+      ],
+      "type": "књижевност",
+      "tags": ["снег", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Цвеће",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Шта је поред пчела поменуто у песми \"Пролеће\" Воја Царића као знак да је стигло пролеће?",
+      "options": [
+        "Медведи",
+        "Рибе",
+        "Цветови",
+        "Јелен"
+      ],
+      "type": "књижевност",
+      "tags": ["природа", "пролеће"],
+      "grade": 1,
+      "correctAnswerMC": "Цветови",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  },
+  {
+    "type": "question",
+    "questionBlock": {
+      "questionType": "multiple_choice",
+      "question": "Који догађај обележава почетак пролећа у песми \"Пролеће\" Воја Царића?",
+      "options": [
+        "Прва песма птица",
+        "Први снег",
+        "Први јесењи дан",
+        "Прва киша"
+      ],
+      "type": "књижевност",
+      "tags": ["пролеће", "природа"],
+      "grade": 1,
+      "correctAnswerMC": "Прва песма птица",
+      "topic": "66eeb052dec7c96b57daa5da"
+    }
+  }
+]
+[
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Ко је главни лик у песми 'Ветар сејач'?",
+        "options": [
+          "Неда",
+          "Мама",
+          "Ветар",
+          "Маслачак"
+        ],
+        "type": "књижевност",
+        "tags": ["ликови", "главни лик"],
+        "grade": 1,
+        "correctAnswerMC": "Ветар",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    },
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Како Неда реагује док ветар дува у песми 'Ветар сејач'?",
+        "options": [
+          "Смеје се",
+          "Плаче",
+          "Трчи за ветром",
+          "Пева"
+        ],
+        "type": "књижевност",
+        "tags": ["ликови", "Неда"],
+        "grade": 1,
+        "correctAnswerMC": "Смеје се",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    },
+    
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Шта ветар носи у песми 'Ветар сејач'?",
+        "options": [
+          "Семе маслачка",
+          "Листове са дрвећа",
+          "Облаке",
+          "Воду из реке"
+        ],
+        "type": "књижевност",
+        "tags": ["ликови", "ветар"],
+        "grade": 1,
+        "correctAnswerMC": "Семе маслачка",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    },
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Како се мама односи према ветру у песми 'Ветар сејач'?",
+        "options": [
+          "Каже да ветар сеје цвеће",
+          "Каже да ветар руши све",
+          "Забрањује да ветар дува",
+          "Смеје се ветру"
+        ],
+        "type": "књижевност",
+        "tags": ["ликови", "мама"],
+        "grade": 1,
+        "correctAnswerMC": "Каже да ветар сеје цвеће",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    },
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Шта ветар жели да учини са ливадама у песми 'Ветар сејач'?",
+        "options": [
+          "Да их учини шареним",
+          "Да их покрије снегом",
+          "Да их осуши",
+          "Да их запали"
+        ],
+        "type": "књижевност",
+        "tags": ["радња", "ветар", "ливаде"],
+        "grade": 1,
+        "correctAnswerMC": "Да их учини шареним",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    },
+    {
+      "type": "question",
+      "questionBlock": {
+        "questionType": "multiple_choice",
+        "question": "Која реч најбоље описује ветар у песми 'Ветар сејач'?",
+        "options": [
+          "Разигран",
+          "Љут",
+          "Мирисан",
+          "Тужан"
+        ],
+        "type": "књижевност",
+        "tags": ["ветар", "осећања"],
+        "grade": 1,
+        "correctAnswerMC": "Разигран",
+        "topic": "66eeb618dec7c96b57daa666"
+      }
+    }
+  ]
+  

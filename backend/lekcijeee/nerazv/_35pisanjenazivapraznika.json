@@ -1,0 +1,178 @@
+[{
+    "title": "Управни говор",
+    "description": "",
+    "topic":"66da3acc9d90b9966e86c48f",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ПРИЈАТЕЉСКО ДОПИСИВАЊЕ",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Кад је сестра дошла кући, видела је да њен млађи брат вуче оловком по&nbsp;папиру. Чим је видео сестру, брат се одмах похвалио:<br>&bdquo;Погледај, пишем пријатељско писмо Саши!&bdquo<br>&bdquo;Па ти још не умеш да пишеш&ldquo;, рекла му је сестра.<br>&bdquoНи Саша не уме да чита&ldquo;, одговорио је брат.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Туђе речи написане тачно онако како их је неко изговорио називају се&nbsp;управни говор. Управни говор обележавамо знацима који се називају&nbsp;наводници (&bdquo;&ldquo;).",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<br>Речи којима се означава ко говори или коме припада управни говор&nbsp;називају се пишчеве речи. За издвајање управног говора од пишчевих<br>речи, поред наводника (&bdquo;&ldquo;), користимо две тачке (:) и запету (,).",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Када у управном говору користимо упитник или&nbsp;узвичник, ови правописни<br>знаци се пишу унутар наводника. У другом моделу после наводника следи&nbsp;запета.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Управни говор можемо писати на следеће начине:<br>&bull;<font color='#FF0000'>Лена је рекла</font>: &bdquo;<font color='#0000FF'>Данас сам купила књигу&ldquo;</font>.<br>&bull;&ldquo;<font color='#0000FF'>Данас сам купила књигу&ldquo;</font>, <font color='#FF0000'>рекла је Лена</font>.<br><br></p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Сав дуги дан деца су се играла. Када је почео да се спушта мрак, отишла су&nbsp;Џину да му пожеле лаку ноћ.<br>- <strong>Али где је онај мали дечак којег сам ја ставио на дрво?</strong> - распитивао се џин&nbsp;за дечачића који га је пољубио и којег је због тога највише заволео.<br>- <strong>Не знамо</strong> - одговорила су деца - <strong>отишао је</strong>.<br>- <strong>Онда му морате рећи да сигурно дође сутра.</strong><br>Тада су му деца казала да тог малишана никад раније нису видела и да не&nbsp;знају где станује. Чувши то, џин се растужи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Уместо наводника (&bdquo;&ldquo;), управни говор се понекад у књижевним текстовима&nbsp;обележава цртом (-).",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]},
+[
+        
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Ако се назив празника састоји из више речи свака реч се пише великим словом.",
+                "type":"правопис",
+                "tags":["празник", "велико слово"],
+                "grade":3,
+                "correctAnswer":false,
+                "topic":"66da3acc9d90b9966e86c48f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Који назив празника?",
+                "options":["нова година", "Нова година","Нова Година"],
+                "type":"правопис",
+                "tags":["празник", "велико слово"],
+                "grade":3,
+                "correctAnswerMC":"Нова година",
+                "topic":"66da3acc9d90b9966e86c48f"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Који назив празника?",
+                "options":["празник рада", "Празник рада","Празник Рада"],
+                "type":"правопис",
+                "tags":["празник", "велико слово"],
+                "grade":3,
+                "correctAnswerMC":"Празник рада",
+                "topic":"66da3acc9d90b9966e86c48f"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"spelling_correction",
+                "question":"Исправи грешке.",
+                "type":"правопис",
+                "tags":["књига", "велико слово"],
+                "grade":3,
+                "incorrectSpelling":"дан државности или сретење је важан празник у србији.",
+                "correctedSpelling":"Дан државности или Сретење је важан празник у Србији.",
+                "topic":"66da3acc9d90b9966e86c48f"
+
+            }
+        }
+
+]]

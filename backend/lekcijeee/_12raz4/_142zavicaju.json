@@ -1,0 +1,251 @@
+{
+    "title": "Завичају\n (Добрица Ерић)",
+    "description": "",
+    "topic":"66eda5e5dec7c96b57da9638",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Цвете, лепши<br>од руже и булке<br>Цветале ти<br>трпезе и љуљке!</p><p>Песма ти се<br>до неба орила<br>Свака чесма<br>љубав жуборила!</p><p>Игле везле<br>а вретена прела<br>Комбајн жео<br>воденица млела!</p><p>Хлебови ти нарасли<br>ко брда<br>Река млека<br>поплавила крда!</p><p>Песници ти<br>цветне венце вили<br>А војници<br>воће калемили!</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/EHCkZoR-t7k?si=qasxrIulKm6yCKA-"   
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Песма &bdquo;Завичају&ldquo; је <font color='#34cfeb'>здравица</font> посвећена родном крају.<br>Здравицама најчешће упућујемо жеље за добро здравље и срећу.<br>Изговарају се уз чашу пића и пре него што се садржај чаше попије.</p>",                    
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>булка</font> – пољска биљка црвених цветова<br> - <font color='#42f545'>крда</font> – стада стоке<br> - <font color='#42f545'>вили</font> – увијали<br> - <font color='#42f545'>Љуљке</font> – љуљашке<br> - <font color='#42f545'>калемили</font> – размножавали воћке посебном техником калемљења<br> - <font color='#42f545'>вретена</font> – штапови на које се намотава, преде вуна<br> - <font color='#42f545'>комбајн</font> – машина за жетву житарица",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+    ]}
+    [
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Којој врсти песама припада песма Добрице Ерића 'Завичај'?",
+            "options": [
+              "Здравица",
+              "Љубавна песма",
+              "Ода",
+              "Химна"
+            ],
+            "type": "књижевност",
+            "tags": ["жанр", "поезија"],
+            "grade": 2,
+            "correctAnswerMC": "Здравица",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Која реч се користи за пољску биљку са црвеним цветом?",
+            "options": [
+              "Булка",
+              "Ружа",
+              "Љуљка",
+              "Маслачак"
+            ],
+            "type": "књижевност",
+            "tags": ["речи", "опис"],
+            "grade": 2,
+            "correctAnswerMC": "Булка",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта жубори у песми 'Завичају'?",
+            "options": [
+              "Чесма",
+              "Река",
+              "Извор",
+              "Језеро"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "песма"],
+            "grade": 2,
+            "correctAnswerMC": "Чесма",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Која активност се спомиње у песми 'Завичају' као нешто што војници раде?",
+            "options": [
+              "Калемљење воћа",
+              "Везење",
+              "Жетва житарица",
+              "Плетење вуна"
+            ],
+            "type": "књижевност",
+            "tags": ["делатности", "војници"],
+            "grade": 2,
+            "correctAnswerMC": "Калемљење воћа",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Који инструмент се користи у песми 'Завичају' за жетву житарица?",
+            "options": [
+              "Комбајн",
+              "Вретено",
+              "Срп",
+              "Мотика"
+            ],
+            "type": "књижевност",
+            "tags": ["пољопривреда", "жетва"],
+            "grade": 2,
+            "correctAnswerMC": "Комбајн",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта се пореди са 'брдом' у песми 'Завичају'?",
+            "options": [
+              "Хлебови",
+              "Вретена",
+              "Комбајн",
+              "Љуљке"
+            ],
+            "type": "књижевност",
+            "tags": ["поређење", "ликови"],
+            "grade": 2,
+            "correctAnswerMC": "Хлебови",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Која животињска група се спомиње у песми 'Завичају'?",
+            "options": [
+              "Крда",
+              "Стада",
+              "Чопори",
+              "Јата"
+            ],
+            "type": "књижевност",
+            "tags": ["животиње", "пољопривреда"],
+            "grade": 2,
+            "correctAnswerMC": "Крда",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Која реч означава штап за предење вуне?",
+            "options": [
+              "Вретено",
+              "Игла",
+              "Калем",
+              "Љуљка"
+            ],
+            "type": "књижевност",
+            "tags": ["техника", "предење"],
+            "grade": 2,
+            "correctAnswerMC": "Вретено",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се зове техника размножавања воћака?",
+            "options": [
+              "Калемљење",
+              "Садња",
+              "Орезивање",
+              "Наводњавање"
+            ],
+            "type": "књижевност",
+            "tags": ["пољопривреда", "технике"],
+            "grade": 2,
+            "correctAnswerMC": "Калемљење",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта означава 'љуљке' у песми 'Завичају'?",
+            "options": [
+              "Љуљашке",
+              "Цветови",
+              "Колевке",
+              "Чесме"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "симболи"],
+            "grade": 2,
+            "correctAnswerMC": "Љуљашке",
+            "topic": "66eda5e5dec7c96b57da9638"
+          }
+        }
+      ]
+      

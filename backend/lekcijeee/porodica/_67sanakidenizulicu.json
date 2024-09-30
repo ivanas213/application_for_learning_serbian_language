@@ -1,0 +1,155 @@
+{
+    "title": "САНАК ИДЕ НИЗ УЛИЦУ\n (народна песма)",
+    "description": "",
+    "topic":"66e20ac420291b131b917d84",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Иде санак низ улицу,<br>Води Павла за ручицу:<br>- 'Ајде, Павле, злато моје,<br>Тебе лијепи санак зове,<br>Ти ми заспи, драго дијете,<br>Ти ми заспи слатки санак,<br>Све док буде бијели данак!",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                   
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ова песма је <font color='#42f545'>успаванка</font>. Успаванка је&nbsp;песма која се пева деци пред спавање.&nbsp;Успаванка се пева тихо и нежно да би&nbsp;дете лакше и брже заспало.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#42f545'>Брзалице</font> су реченице које се изговарају гласно и брзо. Користе се за&nbsp;увежбавање правилног изговора гласова.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Брзалице се користе да дете брже заспи.",
+                "type":"књижевност",
+                "tags":["брзалице"],
+                "grade": 2,
+                "correctAnswer":false,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Пословице су реченице које се изговарају гласно и брзо.",
+                "type":"књижевност",
+                "tags":["брзалице","пословице"],
+                "grade": 2,
+                "correctAnswer":false,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Песма \"Санак иде низ улицу\" је народна песма.",
+                "type":"књижевност",
+                "tags":["санак иде низ улицу"],
+                "grade": 2,
+                "correctAnswer":true,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "За шта се користе брзалице?",
+                "options": ["да деца постану бржа", "да деца брже заспе","да деца науче да певају","да деца побољшају изговор неких гласова"],
+                "type":"књижевност",
+                "tags":["брзалице"],
+                "grade": 2,
+                "correctAnswerMC": "да деца побољшају изговор неких гласова",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се зове песма која се пева деци пред спавање?",
+                "options": ["санак", "успаванка","брзалица","балада"],
+                "type":"књижевност",
+                "tags":["успаванке"],
+                "grade": 2,
+                "correctAnswerMC": "успаванка",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        }
+        
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Какав је тон успаванке?",
+                "options": ["тужан и мрачан", "тих и нежан","весео и гласан","брз и гласан"],
+                "type":"књижевност",
+                "tags":["успаванке"],
+                "grade": 2,
+                "correctAnswerMC": "тих и нежан",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко води Павла за ручицу у песми \"Санак иде низ улицу\"?",
+                "options": ["дете", "мајка","вила","санак"],
+                "type":"књижевност",
+                "tags":["Санак иде низ улицу"],
+                "grade": 2,
+                "correctAnswerMC": "санак",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се зове дечак из песме \"Санак иде низ улицу\"?",
+                "options": ["Петар", "Павле","Ђорђе","Марко"],
+                "type":"књижевност",
+                "tags":["Санак иде низ улицу"],
+                "grade": 2,
+                "correctAnswerMC": "Павле",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        }
+    ]

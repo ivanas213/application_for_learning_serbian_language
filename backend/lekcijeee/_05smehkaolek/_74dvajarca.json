@@ -1,0 +1,125 @@
+{
+    "title": "ДВА ЈАРЦА \n(Душко Трифуновић)",
+    "description": "",
+    "topic":"66e20adf20291b131b917d86",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Два су јарца врло проста<br>пошли преко уског моста<br>један с једне стране&nbsp;други с друге стране.<br><br>Скупили се навијачи<br>да гледају ко је јачи<br>или једна страна&nbsp;или друга страна.<br><br>Стали јарци, па се мјере,<br>онда поче да се дере<br>један с једне стране&nbsp;други с друге стране.<br><br>Склањај ми се ружна стоко<br>бацићу те у дубоко,<br>виче једна страна&nbsp;виче друга страна.<br><br>Кад су дошли насред моста<br>један рече - сад је доста<br>и са једне стране&nbsp;и са друге стране.<br><br>Вратимо се сваки себи<br>да до туче дошло не би<br>ни са једне стране&nbsp;ни са друге стране.<br><br>Вратише се, па се смију<br>пусти људе да се бију<br>и са једне стране&nbsp;и са друге стране.<br><br>Ви сте ову причу знали<br>нисте ни ви с крушке пали<br>један с једне стране&nbsp;други с друге стране.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/OCOhGPhzE6I?si=O8doYxo_irMqrEvk",
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                        "content":"- <font color='#42f545'>прост</font> – некултуран<br>- <font color='#42f545'>смијати се</font> –  смејати се<br>",                
+                        "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је написао \"Два јарца\"",
+                "options": ["Душко Трифуновић", "Душан Радовић", "Војислав Илић"],
+                "type": "књижевност",
+                "tags": ["два јарца"],
+                "grade": 2,
+                "correctAnswerMC": "Душко Трифуновић",
+                "topic": "66e20adf20291b131b917d86"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта су јарци у песми \"Два јарца\" хтели да ураде на мосту?",
+                "options": ["Да се боре", "Да разговарају", "Да се спрете играју"],
+                "type": "књижевност",
+                "tags": ["два јарца"],
+                "grade": 2,
+                "correctAnswerMC": "Да се боре",
+                "topic": "66e20adf20291b131b917д86"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта су јарци у песми \"Два јарца\" одлучили када су стигли насред моста?",
+                "options": ["Да наставе борбу", "Да се повуку", "Да се играју"],
+                "type": "књижевност",
+                "tags": ["два јарца"],
+                "grade": 2,
+                "correctAnswerMC": "Да се повуку",
+                "topic": "66e20adf20291b131b917д86"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта су навијачи у песми \"Два јарца\" радили током сукоба?",
+                "options": ["Посматрали борбу", "Навијали за оба јарца", "Плакали"],
+                "type": "књижевност",
+                "tags": ["два јарца"],
+                "grade": 2,
+                "correctAnswerMC": "Посматрали борбу",
+                "topic": "66e20adf20291b131b917д86"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта су јарци урадили на крају песме?",
+                "options": ["Смејали се људима", "Наставили борбу", "Пали у реку"],
+                "type": "књижевност",
+                "tags": ["два јарца"],
+                "grade": 2,
+                "correctAnswerMC": "Смејали се људима",
+                "topic": "66e20adf20291b131b917д86"
+            }
+        }
+        
+        
+    ]

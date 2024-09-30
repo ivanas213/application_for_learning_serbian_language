@@ -1,0 +1,136 @@
+{
+    "title": "ПРВИ СНЕГ \n(Војислав Илић)",
+    "description": "",
+    "topic":"66e20aee20291b131b917d8a",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>У освитку зоре, кроз сумрачак тавни,<br>Покривене снегом почивају равни.<br><br>А студени лахор кроз долине мирне<br>Преко пустих поља кадикада пирне -<br><br>И с вихором лаким сеоца се хвата,<br>Па засипље снегом и стрехе и врата.<br><br>А у селу јоште у прозорје мило<br>Ноћ, ведра и хладна, не подиже крило.<br><br>Из даљине само лисица се краде,<br>Па кокоши вреба и пилиће младе -<br><br>И од њених шапа и туна и тамо<br>У првоме снегу траг се види само...</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/vz6eX6Utb0o?si=TlYrWwaB9H6Kd8-B",
+                "position": 1
+            }
+        },
+        
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                    "content": "- <font color='#42f545'>освитак</font> – свитање<br> - <font color='#42f545'>сумрачак</font> – сумрак, полумрак<br> - <font color='#42f545'>тавни</font> – тамни<br> - <font color='#42f545'>почивати</font> – одмарати, спавати<br> - <font color='#42f545'>раван</font> – равница<br> - <font color='#42f545'>студени</font> – хладни<br> - <font color='#42f545'>кадикада</font> – понекад<br> - <font color='#42f545'>пирнути</font> – лагано дунути<br> - <font color='#42f545'>вихор</font> – врста ветра, ветар који се креће укруг<br> - <font color='#42f545'>засипле</font> – заспала<br> - <font color='#42f545'>стреха</font> – део крова који прелази спољне зидове, испод стрехе можемо да се склонимо од кише<br> - <font color='#42f545'>јоште</font> – још<br> - <font color='#42f545'>прозорје</font> – прозор<br> - <font color='#42f545'>туна</font> – ту<br>",
+                    "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је написао песму 'Први снег'?",
+                "options": ["Војислав Илић", "Душан Радовић", "Душко Трифуновић"],
+                "type": "књижевност",
+                "tags": ["први снег"],
+                "grade": 4,
+                "correctAnswerMC": "Војислав Илић",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта лисица ради у песми 'Први снег'?",
+                "options": ["Прати птице", "Лови кокошке", "Гради брлог"],
+                "type": "књижевност",
+                "tags": ["први снег"],
+                "grade": 4,
+                "correctAnswerMC": "Лови кокошке",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи реч 'освитак'?",
+                "options": ["Падање ноћи", "Свитање", "Дубоки мрак"],
+                "type": "књижевност",
+                "tags": ["непознате речи"],
+                "grade": 4,
+                "correctAnswerMC": "Свитање",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи реч 'сумрачак'?",
+                "options": ["Зора", "Сумрак", "Ноћ"],
+                "type": "књижевност",
+                "tags": ["непознате речи"],
+                "grade": 4,
+                "correctAnswerMC": "Сумрак",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који природни феномен је описан у песми 'Први снег'?",
+                "options": ["Падање кише", "Падање снега", "Падање магле"],
+                "type": "књижевност",
+                "tags": ["први снег"],
+                "grade": 4,
+                "correctAnswerMC": "Падање снега",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи реч 'стреха'?",
+                "options": ["Део крова", "Зид", "Прозор"],
+                "type": "књижевност",
+                "tags": ["непознате речи"],
+                "grade": 4,
+                "correctAnswerMC": "Део крова",
+                "topic": "66e20aee20291b131b917d8a"
+            }
+        }
+    ]

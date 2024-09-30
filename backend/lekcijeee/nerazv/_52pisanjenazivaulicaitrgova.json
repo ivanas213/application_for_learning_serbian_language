@@ -1,0 +1,143 @@
+{
+    "title": "Писање назива улица и тргова",
+    "description": "",
+    "topic":"66dc89323208a52c58164e91",
+    "type":"лекција",
+    "contentBlocks": [
+     
+       
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ана живи у Вршцу. Станује у Улици <strong>Светозара Милетића</strong>. Њена другарица&nbsp;Јана станује у <strong>Његошевој улици</strong>. Свакодневно се састају на <strong>Тргу ослобођења </strong>и одлазе у шетњу <strong>Улицом липа</strong>. Често дођу и до <strong>Трга Николе Тесле</strong>. Оне су ученице четвртог разреда основне школе. Њихова школа се налази у <strong>Булевару цара Лазара</strong>.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"У називима улица и тргова прва реч се пише великим почетним словом.&nbsp;Великим почетним словом пишу се и властите именице које се налазе у&nbsp;вишечланим називима улица и тргова.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#83d2e6",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Прва реч у називима улица и тргова увек се пише великим словом.",
+                "type": "правопис",
+                "tags": ["велико слово","улице","тргови"],
+                "grade": 4,
+                "correctAnswer": true,
+                "topic": "66dc89323208a52c58164e91"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Kaда се називи улица и тргова састоје од више речи постоје случајеви када се неке речи пишу малим словом.",
+                "type": "правопис",
+                "tags": ["велико слово","улице","тргови"],
+                "grade": 4,
+                "correctAnswer": true,
+                "topic": "66dc89323208a52c58164e91"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Када пишео називе тргова и улица, стављамо наводнике.",
+                "type": "правопис",
+                "tags": ["велико слово","улице","тргови"],
+                "grade": 4,
+                "correctAnswer": false,
+                "topic": "66dc89323208a52c58164e91"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "spelling_correction",
+                "question": "Исправи правописне грешке ако их има.",
+                "type": "правопис",
+                "tags": ["велико слово","улице","тргови"],
+                "grade": 4,
+                "incorrect_spelling":"Ана живи у вршцу. Станује у Улици Светозара милетића. Њена другарица Јана станује у Његошевој Улици. Свакодневно се састају на тргу ослобођења и одлазе у шетњу улицом липа.",
+                "corrected_spelling":"Ана живи у Вршцу. Станује у Улици Светозара Милетића. Њена другарица Јана станује у Његошевој улици. Свакодневно се састају на Тргу ослобођења и одлазе у шетњу Улицом липа.",
+                "topic": "66dc89323208a52c58164e91"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је исправно?",
+                "options": ["Улица Војислава Илића","Улица војислава илића","улица Војислава Илића","улица војислава илића"],
+                "type": "правопис",
+                "tags": ["велико слово","улице","тргови"],
+                "grade": 4,
+                "correctAnswerMC": "Улица Војислава Илића",
+                "topic": "66dd6fba99c392ec4ab03783"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је исправно?",
+                "options": ["трг ослобођења","Трг ослобођења","Трг Ослобођења"],
+                "type": "правопис",
+                "tags": ["велико слово","тргови"],
+                "grade": 4,
+                "correctAnswerMC": "Трг ослобођења",
+                "topic": "66dd6fba99c392ec4ab03783"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је исправно?",
+                "options": ["цветни трг","Цветни трг","Цветни Трг"],
+                "type": "правопис",
+                "tags": ["велико слово","тргови"],
+                "grade": 4,
+                "correctAnswerMC": "Цветни трг",
+                "topic": "66dd6fba99c392ec4ab03783"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је исправно?",
+                "options": ["улица српских владара","Улица српских владара","Улица Српских владара","Улица Српских Владара"],
+                "type": "правопис",
+                "tags": ["велико слово","улице"],
+                "grade": 4,
+                "correctAnswerMC": "Улица српских владара",
+                "topic": "66dd6fba99c392ec4ab03783"
+            }
+        }
+    ]

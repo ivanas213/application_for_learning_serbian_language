@@ -1,0 +1,158 @@
+{
+    "title": "Мрави\n (Гвидо Тартаља)",
+    "description": "",
+    "topic":"66ee1d24dec7c96b57daa3e1",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Иду, иду мрави<br>по зеленој трави.<br><br>Први иду ђаци,<br>Ђаци весељаци.<br><br>Други иду тате,<br>а чике их прате.<br><br>Трећи су редари,<br>да се ред не квари.<br><br>А на крају деда,<br>иде изван реда..",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/RJ7h_U6sqZY?si=lKVthov_V4o-t5Zp" 
+            }
+        }
+        
+    ]}
+   
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко први иде у колони мрава у песми \"Мрави\"?",
+                "options": [
+                    "Ђаци",
+                    "Тате",
+                    "Деде",
+                    "Чике"
+                ],
+                "type": "књижевност",
+                "tags": ["редослед", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Ђаци",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се зову ђаци у песми \"Мрави\"?",
+                "options": [
+                    "Ђаци радници",
+                    "Ђаци весељаци",
+                    "Ђаци мрави",
+                    "Ђаци пчелице"
+                ],
+                "type": "књижевност",
+                "tags": ["карактеристика", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Ђаци весељаци",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта раде редари у песми \"Мрави\"?",
+                "options": [
+                    "Иду први",
+                    "Преносе храну",
+                    "Брину се да се ред не квари",
+                    "Певају песме"
+                ],
+                "type": "књижевност",
+                "tags": ["улога", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Брину се да се ред не квари",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко не иде у реду у песми \"Мрави\"?",
+                "options": [
+                    "Редари",
+                    "Деда",
+                    "Чике",
+                    "Ђаци"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "редослед"],
+                "grade": 1,
+                "correctAnswerMC": "Деда",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи реч 'редари'?",
+                "options": [
+                    "Они који воде групу",
+                    "Они који брину о реду",
+                    "Они који уче",
+                    "Они који певају"
+                ],
+                "type": "књижевност",
+                "tags": ["речник", "значење"],
+                "grade": 1,
+                "correctAnswerMC": "Они који брину о реду",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како изгледа колона мрава у песми \"Мрави\"?",
+                "options": [
+                    "Разбацана",
+                    "Организована",
+                    "Веома брза",
+                    "Непрекидна"
+                ],
+                "type": "књижевност",
+                "tags": ["редослед", "карактеристике"],
+                "grade": 1,
+                "correctAnswerMC": "Организована",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је стих тачно описан у песми \"Мрави\"?",
+                "options": [
+                    "Тате иду први",
+                    "Деде иду у средини",
+                    "Ђаци иду први",
+                    "Чике иду последњи"
+                ],
+                "type": "књижевност",
+                "tags": ["стихови", "редослед"],
+                "grade": 1,
+                "correctAnswerMC": "Ђаци иду први",
+                "topic": "66ee1d24dec7c96b57daa3e1"
+            }
+        }
+    ]
+    

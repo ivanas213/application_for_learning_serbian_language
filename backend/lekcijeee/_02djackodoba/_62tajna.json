@@ -1,0 +1,104 @@
+{
+    "title": "ТАЈНА\n (МИрослав Антић)",
+    "description": "",
+    "topic":"66e20abb20291b131b917d82",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ТАЈНА<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Свако има неку тајну:<br>шу-шу-шу...<br><br>Неко лепу и бескрајну,<br>неко тужну или смешну,<br>неко злу.<br>Неко своју тајну слаже.<br>Неко одмах мами каже.<br>Неко своју тајну не би<br>испричао ни у сну.<br>Неко шапне само теби<br>као другу - шу-шу-шу....<br><br>Обично су тајне главне,<br>измишљене и љубавне.<br><br>Ал' и друге кад се зброје,<br>наше, ваше, моје, твоје,<br>леве, десне, чудне, сјајне,<br>све једнако много значе,<br>јер - иначе<br>зашто би се звале тајне?<br><br>Имам и ја тајну једну<br>врло важну, врло вредну.<br>Ником другом - само теби<br>пришапнућу јутрос њу.<br><br>Ходи ближе: шу-шу-шу....<br>Сутра рано....шу-шу-шу....<br>Баш онамо... шу-шу-шу....<br><br>Али ником то не кажи.<br>Сам потражи.<br>Шу-шу-шу...<br><br>Пронаћи ћеш врло лако<br>и видећеш да је тако.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Драган Лукић",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"right"
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Овај текст је <font color='#42e6f5'>песма</font>. Песма се најчешће састоји од <font color='#42e6f5'>строфа</font>. То су&nbsp;мисаоне целине у песми. Када се штампају, оне се одвајају једна од&nbsp;друге. Строфе чине <font color='#42e6f5'>стихови</font> - редови у песми. Песме пише <font color='#42e6f5'>песник</font>.&nbsp;Ову песму је написао песник Драган Лукић.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#fffacd",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је тајна?",
+                "options": ["нешто што се чува и не говори свима","нешто што се обавезно говори родитељима","увек нешто ружно","нешто што сви знају"],
+                "type":"књижевност",
+                "tags":["песма","тајна"],
+                "grade": 2,
+                "correctAnswerMC": "нешто што се чува и не говори свима",
+                "topic": "66e20abb20291b131b917d82"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"classic",
+                "question":"Ко је написао песму \"Тајна\"?",
+                "type":"књижевност",
+                "tags":["песма","тајна"],
+                "grade":2,
+                "correctAnswers":["Мирослав Антић"],
+                "topic": "66e20abb20291b131b917d82"
+
+            }
+        },{
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "У песми \"Тајна\" песник је рекао да и он има тајну.",
+                "type":"књижевност",
+                "tags":["песма","тајна"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e20abb20291b131b917d82"
+            }
+        }
+    ]

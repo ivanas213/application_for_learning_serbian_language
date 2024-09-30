@@ -1,0 +1,147 @@
+{
+    "title": "ПИСАЊЕ ЗАМЕНИЦЕ ВИ ИЗ ПОШТОВАЊА",
+    "description": "",
+    "topic":"66dc893d3208a52c58164e95",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Драга учитељице,<br><br>Јављавам <strong>Вам</strong> се из града у коме сада живим. Данас идем први пут у&nbsp;нову школи. Тужна сам јер знам да <strong>Вас</strong> нећу видете. Замишљам како&nbsp;бих била срећна када бисте се <strong>Ви</strong> појавили у учионици. Знам да је то&nbsp;нереално. Мислићу на <strong>Вас</strong> и писаћу <strong>Вам</strong> кад добијем прве оцене.<br>Захваљујем <strong>Вам</strong> на свему што сте <strong>Ви</strong> чинили за мене док сам била<br><strong>Ваша</strong> ученица.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Пуно Вас воли и поздравља<br>Маја Крунић",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"right"
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Лична заменица <font color=\"#FF0000\">ВИ</font> нас упућује на друго лице множине. Она се може<br>писати и великим и малим почетним словом.<br>Када се заменицом <font color=\"#FF0000\">ВИ</font> обраћамо само једној особи и указујемо јој<br>посебно поштовање, онда ову заменицу пишемо великим почетним<br>словом (<font color=\"#FF0000\">Ви</font>, <font color=\"#FF0000\">Вас</font>, <font color=\"#FF0000\">Вам</font>, <font color=\"#FF0000\">Вама</font>). У свим другим случајевима ова заменица се<br>пише малим почетним словом.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#fffacd",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+
+ [
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Када се обраћамо некој особи увек користимо друго лице једнине.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":false,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Следећа реченица је исправно написана.\nУчитељице, извините што касним на час.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Следећа реченица је исправно написана.\nУчитељице, да ли бисте могли да поновите то што сте рекли?",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Када се неком обраћамо са поштовањем потребно је да користимо друго лице множине.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Кроз следећу реченицу се не указује поштовање и треба је избегавати када се обраћамо учитељици.\nУчитељице, хвала ти на свему.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Кроз следећу реченицу се не указује поштовање и треба је избегавати када се обраћамо учитељици.\nУчитељице, хвала ти на свему.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Следећа реченица је исправно написана.\nУчитељице, хвала Вам на свему.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Заменица ви се пише великим словом само ако се налази на почетку реченице.",
+            "type": "правопис",
+            "tags":["писање заменице ви из поштовања"],
+            "grade": 4,
+            "correctAnswer":false,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    }
+ ]

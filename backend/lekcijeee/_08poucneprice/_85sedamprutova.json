@@ -1,0 +1,138 @@
+{
+    "title": "SEDAM PRUTOVA \n(narodna priča)",
+    "description": "",
+    "topic":"66e32bab9d4bbcb4974d5a24",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Imao otac sedam sinova, sedam svađalica. Svađajući se zanemari&scaron;e&nbsp;sav kućni posao i sve im pođe naopako. Bilo je sebičnih i rđavih suseda&nbsp;koji su se radovali njihovom svađanju i njihov nazadak skretali su na&nbsp;svoju korist. Lako je grabiti onde gde nema ko da čuva, kad se čuvari&nbsp;među sobom svađaju.<br>Videv&scaron;i da će biti zlo i naopako, otac se veoma zabrinu. Jedanput<br>skupi sinove oko sebe, pa im pokaza sedam prutova čvrsto povezanih<br>u jedan snop i reče:<br>\"Koji od vas ovaj snop prelomi, onome ću dati deset dukata.\"<br>Svih sedam sinova poku&scaron;a da prelomi snop, probali su ovako i onako.<br>I naposletku svaki reče da ne može.<br>A otac će im onda:<br>\"Čudim se &scaron;to ne možete, jer je to sasvim lako.\"<br>On odre&scaron;i uzicu kojom je bio snop vezan, &scaron;tapići se razmako&scaron;e i on&nbsp;jedan po jedan prelomi bez po muke.<br>Sinovi su se nasmejali:<br>\"E, to je lako! Tako bi moglo i nejako dete!\"<br>Otac zavr&scaron;i:<br>\"Evo vam, deco, slike i prilike va&scaron;e. Ne budete li snop, bićete sedam prutova koje, kao &scaron;to ste sami rekli, može slomiti i nejako dete.\"<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/97jbORBA9GY?si=Zktzc_9347G5Rpbj",
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Narodne priče su davno nastale. Ljudi su ih prenosili usmeno i tako ih&nbsp;sačuvali od zaborava.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Nepoznate reči",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>rđav</font> – loš<br> - <font color='#42f545'>sused</font> – komšija<br> - <font color='#42f545'>nazadak</font> – nazadovanje, propadanje<br> - <font color='#42f545'>snop</font> – povezan skup štapića, prutova<br> - <font color='#42f545'>dukat</font> – zlatan novčić<br> - <font color='#42f545'>naposletku</font> – na kraju<br> - <font color='#42f545'>odrešiti</font> – odvezati<br> - <font color='#42f545'>uzica</font> – konopac<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        [
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Zašto su se braća u priči 'Sedam prutova' svađala?",
+                    "options": ["Zbog različitih mišljenja", "Zbog raspodele posla", "Zbog suseda", "Nije objašnjeno u priči"],
+                    "type": "književnost",
+                    "tags": ["sedam prutova"],
+                    "grade": 4,
+                    "correctAnswerMC": "Nije objašnjeno u priči",
+                    "topic": "66e32bab9d4bbcb4974d5a24"
+                }
+            },
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "true_false",
+                    "question": "Otac je sinovima ponudio deset dukata da polome snop prutova u priči 'Sedam prutova'.",
+                    "type": "književnost",
+                    "tags": ["sedam prutova"],
+                    "grade": 4,
+                    "correctAnswer": true,
+                    "topic": "66e32bab9d4bbcb4974d5a24"
+                }
+            },
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Šta je otac želeo da pokaže svojim sinovima primerom snopa prutova u priči 'Sedam prutova'?",
+                    "options": ["Da je snaga u slozi i međusobnoj podršci", "Da je snaga u brojevima", "Da su štitovi važni za zaštitu", "Da uvek treba poslušati starije"],
+                    "type": "književnost",
+                    "tags": ["sedam prutova"],
+                    "grade": 4,
+                    "correctAnswerMC": "Da je snaga u slozi i međusobnoj podršci",
+                    "topic": "66e32bab9d4bbcb4974d5a24"
+                }
+            }
+            ,
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "true_false",
+                    "question": "Svi sinovi u priči 'Sedam prutova' su uspeli da polome snop prutova.",
+                    "type": "književnost",
+                    "tags": ["sedam prutova"],
+                    "grade": 4,
+                    "correctAnswer": false,
+                    "topic": "66e32bab9d4bbcb4974d5a24"
+                }
+            },
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Šta je otac uradio kada sinovi nisu uspeli da polome snop prutova u priči 'Sedam prutova'?",
+                    "options": ["Pokazao im kako se prutovi lako polome kada se razdvoje", "Ponovo je vezao snop", "Kaznio ih", "Odustao od svog pokušaja"],
+                    "type": "književnost",
+                    "tags": ["sedam prutova"],
+                    "grade": 4,
+                    "correctAnswerMC": "Pokazao im kako se prutovi lako polome kada se razdvoje",
+                    "topic": "66e32bab9d4bbcb4974d5a24"
+                }
+            }
+        ]
+        
+    ]

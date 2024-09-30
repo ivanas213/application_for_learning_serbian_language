@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.VerificationActivity">
+
+    <ImageView
+        android:id="@+id/iwVerificationPicture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/envelope_blue96"
+        android:layout_marginTop="30sp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/twVerificationTitle"
+        android:text="Верификујте вашу имејл адресу"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/twVerificationText"
+        android:text="Послали смо вам имејл са верификационим линком на ivana@gmail.com. Молимо вас да кликнете на тај линк какобисте верификовали своју адресу  и завршили регистрацију."
+        android:layout_marginTop="30dp"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btnVerficationAgain"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Пошаљи поново линк" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginStart="16dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/twVerificationBack"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Врати се назад"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/srcVerificationArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arrow"
+                android:layout_marginStart="8dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

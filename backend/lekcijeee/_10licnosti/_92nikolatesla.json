@@ -1,0 +1,165 @@
+{
+    "title": "NIKOLA TESLA\n(JOVANA KALAUZOV REBA)",
+    "description": "",
+    "topic":"66e32be49d4bbcb4974d5a28",
+    "type":"лекција",
+    "contentBlocks": [
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ja sam Nikola Tesla, jedan od&nbsp;najpoznatijih naučnika na svetu! A&nbsp;sada ću vam otkriti i jednu tajnu: ja&nbsp;sam takođe superheroj. Ne verujete&nbsp;mi? Draga deco, dozvolite mi da vas u&nbsp;to uverim. Kao &scaron;to je svima poznato,&nbsp;superheroji znaju stvari koje obični&nbsp;ljudi ne znaju. Pročitao sam hiljade&nbsp;knjiga i stekao ogromno znanje, koje&nbsp;sam mogao da iskoristim za smi&scaron;ljanje do tada neviđenih izuma...<br>Superheroji imaju najneverovatnije ideje. Od ranog detinjstva, u mojoj&nbsp;glavi su se oblikovale slike raznih čudesa. Kada sam porastao, shvatio sam&nbsp;da ono &scaron;to mogu da zamislim, mogu i da napravim: od savr&scaron;ene zamke&nbsp;za hvatanje žaba i velikih buba, do čuvenih pronalazaka u vezi sa strujom,&nbsp;elektricitetom, preno&scaron;enjem energije bez ikakvih žica... Ma, izumeo sam&nbsp;ih vi&scaron;e od sedamsto!<br>Superheroji malo spavaju, a mnogo rade za dobro čovečanstva. Tokom&nbsp;&scaron;kolovanja, učio sam po 20 sati dnevno! Kažite mi, koliko mi je ostajalo<br>vremena za spavanje? Ni&scaron;ta mi nije bilo te&scaron;ko, jer, kao &scaron;to već rekoh,&nbsp;superheroji mogu da postignu sve &scaron;to zamisle. I nikada, ba&scaron; nikada, ne&nbsp;prestaju da veruju u svoje snove! Tako sam ja, nesta&scaron;ni dečak iz Smiljana,&nbsp;glave pune blistavih ideja, pro&scaron;ao mnoge zemlje, &scaron;kolovao se i bavio&nbsp;naukom, pre&scaron;ao okean i u Americi postao veliki naučnik čiji su izumi&nbsp;promenili svet!<br>Superheroji vide i čuju stvari koje ljudi ni ne slute. Ja sam mogao da&nbsp;čujem gromove udaljene preko osamsto kilometara! Takođe, jasno sam&nbsp;video predmete i ljude koje su drugi jedva nazirali uz pomoć dvogleda! A&nbsp;ko vidi i čuje daleko, taj može da predvidi budućnost. Tako sam predvideo&nbsp;da će moji pronalasci, i nakon stotinu i vi&scaron;e godina, uticati na stvaranje&nbsp;novih ma&scaron;ina, čiji će cilj biti da ljudima olak&scaron;aju i ulep&scaron;aju živote. Iz&nbsp;pro&scaron;losti sam stvarao za budućnost, koja je, deco, va&scaron;a sada&scaron;njost!<br>Da li mi sad verujete da sam superheroj? Predviđam da je do&scaron;ao red na<br>vas da to postanete!",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Nepoznate reči",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                    "content": "- <font color='#42f545'>naučnik</font> – čovek koji se bavi naukom<br> - <font color='#42f545'>uverim</font> – ubedim<br> - <font color='#42f545'>izum</font>, <font color='#42f545'>pronalazak</font> – otkriće<br> - <font color='#42f545'>elektricitet</font> – prirodna pojava uzrokovana naelektrisanjem<br> - <font color='#42f545'>naelektrisani predmeti</font> – predmeti koji posle dodira sa nekim telom privlače lakše predmete<br> - <font color='#42f545'>čovečanstvo</font> – ljudski rod, svi ljudi zajedno<br> - <font color='#42f545'>slute</font> – predosećaju<br> - <font color='#42f545'>dvogled</font> – instrument za posmatranje udaljenih predmeta, ljudi...<br>",
+                    "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        }
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла је измислио више од седамсто изума.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+      
+    
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла је учио 20 сати дневно током свог школовања.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        }
+    ,
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како је Никола Тесла себе описао у овој лекцији?",
+                "options": [
+                    "Као научника и обичног човека",
+                    "Као научника и супер-хероја",
+                    "Као наставника и професора"
+                ],
+                "correctAnswer": "Као научника и супер-хероја",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+       
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Где је Никола Тесла постао познати научник?",
+                "options": [
+                    "У Србији",
+                    "У Француској",
+                    "У Америци"
+                ],
+                "correctAnswer": "У Америци",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла је баш мало спавао.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла је одмалена имао много идеја.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла је прошао кроз многе земље.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Никола Тесла није био сигуран да ће бити успешан.",
+                "type": "књижевност",
+                "tags": ["Никола Тесла"],
+                "grade": 2,
+                "correctAnswer": false,
+                "topic": "66e32be49d4bbcb4974d5a28"
+            }
+        }
+    ]
+    

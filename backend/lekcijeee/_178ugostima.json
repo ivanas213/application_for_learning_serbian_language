@@ -1,0 +1,174 @@
+{
+    "title": "У гостима\n (Десанка Максимовић)",
+    "description": "",
+    "topic":"66eeb618dec7c96b57daa666",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Позвао је мај<br>све бубе на чај,<br>од осе до пчеле,<br>да се провеселе,<br>тихе бубамаре,<br>лептире, бумбаре,<br>и ливадске попце,<br>и рударе ровце.<br><br>Спремио је мај<br>судове за чај,<br>изнео у поље<br>разнобојне шоље,<br>позлаћене купе,<br>чутурице скупе,<br>и румене зделе,<br>и крчаге беле.<br><br>Сипао је мај<br>сваком мед у чај<br>у црвене лале,<br>у звончиће мале,<br>у хајдучку траву,<br>перунику плаву,<br>у жуте љутиће,<br>да заслади пиће.<br><br>Попио је свак,<br>и лептирић лак,<br>чаја пола литре,<br>засвирале цитре,<br>зачула се труба<br>свирачица буба,<br>из оближњег жбуна<br>запевала жуна.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/I4a3gcNu3e0?si=Njk_ytRQo47XpBQH" 
+        }},
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>жуња</font> – врста птице<br> - <font color='#42f545'>звончић</font> – врста ливадског цвећа<br> - <font color='#42f545'>крчаг</font> – врста посуде<br> - <font color='#42f545'>купа</font> – геометријско тело<br> - <font color='#42f545'>љутић</font> – ливадска биљка жутих цветова<br> - <font color='#42f545'>перуника</font> – врста биљке<br> - <font color='#42f545'>попац</font> – врста инсекта<br> - <font color='#42f545'>ровац</font> – врста инсекта који живи у земљи<br> - <font color='#42f545'>хајдучка трава</font> – врста биљке која је лековита<br> - <font color='#42f545'>цитра</font> – стари музички инструмент<br> - <font color='#42f545'>чутурица</font> – мала пљосната посуда за пиће<br> - <font color='#42f545'>зделе</font> – посуде",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+        
+        
+    ]}
+    [
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко је позвао бубе на чај у песми 'У гостима'?",
+            "options": [
+              "Мај",
+              "Пчела",
+              "Лептир",
+              "Мрав"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "Мај",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        },
+       
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "У које је шоље сипао чај мај у песми 'У гостима'?",
+            "options": [
+              "У разнобојне шоље",
+              "У беле шоље",
+              "У стаклене чаше",
+              "У велике шоље"
+            ],
+            "type": "књижевност",
+            "tags": ["детаљи", "понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "У разнобојне шоље",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је сипано у чај у песми 'У гостима'?",
+            "options": [
+              "Мед",
+              "Шећер",
+              "Млеко",
+              "Лимун"
+            ],
+            "type": "књижевност",
+            "tags": ["састојци", "понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "Мед",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко је свирао на труби у песми 'У гостима'?",
+            "options": [
+              "Буба",
+              "Лептир",
+              "Мрав",
+              "Пчела"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "Буба",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        },
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Који инструмент је свирао у песми 'У гостима'?",
+            "options": [
+              "Цитра",
+              "Гитара",
+              "Тамбура",
+              "Хармоника"
+            ],
+            "type": "књижевност",
+            "tags": ["музика", "понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "Цитра",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је свако попио у песми 'У гостима'?",
+            "options": [
+              "Чај",
+              "Воду",
+              "Лимунаду",
+              "Млеко"
+            ],
+            "type": "књижевност",
+            "tags": ["понуђене опције"],
+            "grade": 1,
+            "correctAnswerMC": "Чај",
+            "topic": "66eeb618dec7c96b57daa666"
+          }
+        }
+      ]
+      

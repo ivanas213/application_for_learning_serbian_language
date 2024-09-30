@@ -1,0 +1,211 @@
+
+{
+    "title": "Заповедне реченице",
+    "description": "",
+    "topic":"66d043ed8f5b79dd3e66fc6f",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Заповедник љути\nнаредбу даје:\n-На крају заповедне реченице\nузвичник стаје!\n\nАко је тиха молба,\nне квари срећу ђачку,\nна крају заповедне реченице\nти стави тачку.\n\nКад пуцаш од узбуђења,\nти свима јави,\nна крају узвичне реченице\nузвичник стави.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Д. Николић",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": true
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Ана, прочитај књигу!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Молим те, позајми ми гумицу!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Напиши домаћи задатак!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Купи новине!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Не узнемиравај пса!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Иди у школу!",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#3455eb",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "Реченице којима исказујемо заповест, захтев или молбу називају се заповедним реченицама. На крају заповедних реченица најчешће пишемо узвичник.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Допуни реченицу одговарајућим знаком!",
+                "questionType":"fill",
+                "text":"Не причај _",
+                "type":"граматика",
+                "tags":["речeница","заповедна реченица,"],
+                "grade":2,
+                "correctAnswers":["!"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Допуни реченицу одговарајућим знаком!",
+                "questionType":"fill",
+                "text":"Марија храни пилиће _",
+                "type":"граматика",
+                "tags":["речeница","обавештајна реченица,"],
+                "grade":2,
+                "correctAnswers":["."],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Допуни реченицу одговарајућим знаком!",
+                "questionType":"fill",
+                "text":"Данас је леп дан _",
+                "type":"граматика",
+                "tags":["речeница","обавештајна реченица,"],
+                "grade":2,
+                "correctAnswers":["."],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Допуни реченицу одговарајућим знаком!",
+                "questionType":"fill",
+                "text":"Зашто ниси дошла у школу _",
+                "type":"граматика",
+                "tags":["речeница","упитна реченица,"],
+                "grade":2,
+                "correctAnswers":["?"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Допуни реченицу одговарајућим знаком!",
+                "questionType":"fill",
+                "text":"Попиј млеко _",
+                "type":"граматика",
+                "tags":["речeница","заповедна реченица,"],
+                "grade":2,
+                "correctAnswers":["!"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"На крају заповедне реченице увек стоји тачка.",
+                "questionType":"true_false",
+                "type":"граматика",
+                "tags":["речeница","заповедна реченица,"],
+                "grade":2,
+                "correctAnswer":false,
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        }
+    ]
+}

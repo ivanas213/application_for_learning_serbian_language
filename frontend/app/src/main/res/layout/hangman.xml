@@ -1,0 +1,298 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/hangmanImage"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintBottom_toTopOf="@id/wordContainer"
+        app:srcCompat="@drawable/hangman" />
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/wordContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:padding="16dp"
+        app:layout_constraintTop_toBottomOf="@id/hangmanImage"
+        app:layout_constraintBottom_toTopOf="@id/keyboard"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <GridLayout
+        android:id="@+id/keyboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:alignmentMode="alignMargins"
+        android:columnCount="4"
+        android:rowCount="8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/wordContainer">
+
+        <Button
+            android:id="@+id/buttonA"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="А" />
+
+        <Button
+            android:id="@+id/buttonB"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Б" />
+
+        <Button
+            android:id="@+id/buttonV"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="В" />
+
+        <Button
+            android:id="@+id/buttonG"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Г" />
+
+        <Button
+            android:id="@+id/buttonD"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Д" />
+
+        <Button
+            android:id="@+id/buttonDj"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ђ" />
+
+        <Button
+            android:id="@+id/buttonE"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Е" />
+
+        <Button
+            android:id="@+id/buttonZ"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ж" />
+
+        <Button
+            android:id="@+id/buttonZj"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="З" />
+
+        <Button
+            android:id="@+id/buttonI"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="И" />
+
+        <Button
+            android:id="@+id/buttonJ"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ј" />
+
+        <Button
+            android:id="@+id/buttonK"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="К" />
+
+        <Button
+            android:id="@+id/buttonL"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Л" />
+
+        <Button
+            android:id="@+id/buttonLj"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Љ" />
+
+        <Button
+            android:id="@+id/buttonM"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="М" />
+
+        <Button
+            android:id="@+id/buttonN"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Н" />
+
+        <Button
+            android:id="@+id/buttonNј"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Њ" />
+        <Button
+            android:id="@+id/buttonO"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="О" />
+
+        <Button
+            android:id="@+id/buttonP"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="П" />
+
+        <Button
+            android:id="@+id/buttonR"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Р" />
+
+        <Button
+            android:id="@+id/buttonS"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="С" />
+
+        <Button
+            android:id="@+id/buttonT"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Т" />
+
+        <Button
+            android:id="@+id/buttonC"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ћ" />
+
+        <Button
+            android:id="@+id/buttonU"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="У" />
+
+        <Button
+            android:id="@+id/buttonF"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ф" />
+
+        <Button
+            android:id="@+id/buttonH"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Х" />
+
+        <Button
+            android:id="@+id/buttonC2"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ц" />
+
+        <Button
+            android:id="@+id/buttonCh"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ч" />
+
+        <Button
+            android:id="@+id/buttonBlank"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ш"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/buttonDz"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Џ" />
+
+        <Button
+            android:id="@+id/buttonSh"
+            style="@style/KeyboardButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="Ш" />
+    </GridLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

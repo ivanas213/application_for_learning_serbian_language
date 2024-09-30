@@ -1,0 +1,101 @@
+{
+    "title": "Писање имена народа",
+    "description": "",
+    "topic":"66da3abf9d90b9966e86c48d",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Сваке године у Београду одржава се &bdquo;Радост Европе&ldquo;, сусрет деце из&nbsp;европских земаља. Тада се деца из Србије друже са вршњацима: <strong>Хрватима</strong>, <strong>Словенцима</strong>, <strong>Мађарима</strong>, <strong>Бугарима</strong>, <strong>Грцима</strong>, <strong>Италијанима</strong>, <strong>Швеђанима</strong>, <strong>Французима</strong>, <strong>Немцима</strong> и осталим <strong>Европљанима</strong>. Сви се они труде да што боље<br>представе своју земљу. Кроз песму и игру деца Европе се упознају и друже.&nbsp;Оно што је најлепше су пријатељства која настају међу њима.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Имена народа и припадника народа пишу се великим словом.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Имена народа и припадника народа пишу се великим словом.",
+                "type":"правопис",
+                "tags":["имена народа", "велико слово"],
+                "grade":3,
+                "correctAnswer":true,
+                "topic":"66da3abf9d90b9966e86c48d"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"classic",
+                "question":"Како се зове народ из Шведске?",
+                "type":"правопис",
+                "tags":["имена народа", "велико слово"],
+                "grade":3,
+                "correctAnswers":["Швеђани"],
+                "topic":"66da3abf9d90b9966e86c48d"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"classic",
+                "question":"Како се зове народ из Србије?",
+                "type":"правопис",
+                "tags":["имена народа", "велико слово"],
+                "grade":3,
+                "correctAnswers":["Срби"],
+                "topic":"66da3abf9d90b9966e86c48d"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"spelling_correction",
+                "question":"Исправи грешке.",
+                "type":"правопис",
+                "tags":["имена народа", "велико слово"],
+                "grade":3,
+                "incorrectSpelling":"Манифестацију су посетили хрвати, словенци и немци.",
+                "correctedSpelling":"Манифестацију су посетили Хрвати, Словенци и Немци.",
+                "topic":"66da3abf9d90b9966e86c48d"
+
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"spelling_correction",
+                "question":"Исправи грешке.",
+                "type":"правопис",
+                "tags":["имена народа", "велико слово"],
+                "grade":3,
+                "incorrectSpelling":"На фестивалу су били присутни Хрвати и црногорци.",
+                "correctedSpelling":"На фестивалу су били присутни Хрвати и Црногорци.",
+                "topic":"66da3abf9d90b9966e86c48d"
+
+            }
+        }
+        
+    ]}

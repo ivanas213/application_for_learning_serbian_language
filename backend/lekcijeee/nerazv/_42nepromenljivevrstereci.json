@@ -1,0 +1,146 @@
+{
+    "title": "Непроменљиве врсте речи",
+    "description": "",
+    "topic":"66dc88e83208a52c58164e89",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непроменљиве врсте речи никада не мењају свој облик.<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#2196F3",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Гнездо се налази <strong>на</strong> дрвету.<br>Такмичари су <strong>већ</strong> стигли.<br>Напиши задатак, <strong>па</strong> иди у парк<br>Бака је рекла да ће <strong>данас</strong> месити колаче.<br>Цвеће је посађено <strong>иза</strong> куће.<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "fill",
+                "question": "Допуни реченицу одговарајућом непроменљивом врстом речи.",
+                "text": "Гнездо се налази __ дрвету.",
+                "type": "граматика",
+                "tags": ["непроменљиве речи"],
+                "grade": 4,
+                "correctAnswers": ["на"],
+                "topic": "66dc88e83208a52c58164e89"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која од следећих речи је непроменљива?",
+                "options": ["књига", "велики", "и", "трчати"],
+                "type": "граматика",
+                "tags": ["непроменљиве речи"],
+                "grade": 4,
+                "correctAnswerMC": "и",
+                "topic": "66dc88e83208a52c58164e89"
+            }
+        },
+       
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Реч \"већ\" је непроменљива.",
+                "type": "граматика",
+                "tags": ["непроменљиве речи"],
+                "grade": 4,
+                "correctAnswer": true,
+                "topic": "66dc88e83208a52c58164e89"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "fill",
+                "question": "Попуни празнину одговарајућом непроменљивом речју.",
+                "text": "Такмичари су __ стигли.",
+                "type": "граматика",
+                "tags": ["непроменљиве речи"],
+                "grade": 4,
+                "correctAnswers": ["већ"],
+                "topic": "66dc88e83208a52c58164e89"
+            }
+        },
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Која од наведених речи је непроменљива?",
+                    "options": ["високо", "иза", "долазим", "лепа"],
+                    "type": "граматика",
+                    "tags": ["непроменљиве речи"],
+                    "grade": 4,
+                    "correctAnswerMC": "иза",
+                    "topic": "66dc88e83208a52c58164e89"
+                }
+            },
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "true_false",
+                    "question": "Реч \"данас\" је непроменљива реч.",
+                    "type": "граматика",
+                    "tags": ["непроменљиве речи"],
+                    "grade": 4,
+                    "correctAnswer": true,
+                    "topic": "66dc88e83208a52c58164e89"
+                }
+            },
+            
+          
+            
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Која реч означава време?",
+                    "options": ["данас", "иза", "са", "испод"],
+                    "type": "граматика",
+                    "tags": ["непроменљиве речи"],
+                    "grade": 4,
+                    "correctAnswerMC": "данас",
+                    "topic": "66dc88e83208a52c58164e89"
+                }
+            },
+            
+            {
+                "type": "question",
+                "questionBlock": {
+                    "questionType": "multiple_choice",
+                    "question": "Која од наведених речи означава место?",
+                    "options": ["високо", "данас", "иза", "играмо"],
+                    "type": "граматика",
+                    "tags": ["непроменљиве речи"],
+                    "grade": 4,
+                    "correctAnswerMC": "иза",
+                    "topic": "66dc88e83208a52c58164e89"
+                }
+            }
+        
+        
+    ]
+    

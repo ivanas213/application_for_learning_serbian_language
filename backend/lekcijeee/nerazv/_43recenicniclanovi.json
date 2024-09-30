@@ -1,0 +1,169 @@
+{
+    "title": "Реченични чланови",
+    "description": "",
+    "topic":"66dc88fa3208a52c58164e8b",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ЈЕСЕН",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Дошла је јесен и поскидала лишће са дрвећа. Увело и сасушено, опало је и прекрило травњаке и стазе. Киша пада. Небо је тмурно. Ветар дува. Дрвеће је оголело. Само један листић трепери, као да моли да се спусти на земљу. Јак ветар је дунуо, затресао грану, откинуо листић и однео га. Гране се њишу. Изнад голог дрвећа круже вране. Оне непрекидно гракћу. Ето, то је јесен.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Наведени текст садржи кратке и дуге реченице. Свака реченица има&nbsp;одређене делове, које називамо <strong>реченичним члановима</strong>. Главни делови&nbsp;(чланови) реченице су <font color='#4A90E2'>субјекат</font> и <font color='#F5A623'>предикат</font>. Осим субјекта и предиката, у&nbsp;реченици постоје и други чланови о којима ћеш учити ове школске године.&nbsp;Реченице које се састоје само од субјекта и предиката су <strong>просте&nbsp;непроширене реченице.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#4A90E2'>Киша</font> <font color='#F5A623'>пада</font>.<br> <font color='#4A90E2'>Дрвеће</font> <font color='#F5A623'>је оголело</font>.<br> <font color='#4A90E2'>Гране</font> <font color='#F5A623'>се њишу</font>.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p><strong>Субјекат</strong> је главна реч у реченици која означава вршиоца радње или носиоца стања и збивања.&nbsp;<strong>Предикатом</strong> се саопштава шта неко ради, у каквом је неко (или нешто) стању и шта се дешава (збива).</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<strong>Реченице</strong> које поред субјекта и предиката имају и друге реченичне делове&nbsp;су <strong>просте проширене реченице</strong>. У проширеним реченицама речи се&nbsp;групишу око субјекта и око предиката.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Субјекат је главна реч у реченици која означава вршиоца радње.",
+                "type": "граматика",
+                "tags": ["реченични чланови", "субјекат", "предикат"],
+                "grade": 4,
+                "correctAnswer": true,
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који реченични члан означава шта неко ради или у каквом је стању?",
+                "options": ["субјекат", "предикат", "објекат", "атрибут"],
+                "type": "граматика",
+                "tags": ["реченични чланови", "субјекат", "предикат"],
+                "grade": 4,
+                "correctAnswerMC": "предикат",
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "fill",
+                "question": "_ дува са свих страна.",
+                "type": "граматика",
+                "tags": ["реченични чланови", "субјекат"],
+                "grade": 4,
+                "correctAnswers": ["Ветар"],
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "classic",
+                "question": "Како се назива главна реч у реченици која означава вршиоца радње?",
+                "type": "граматика",
+                "tags": ["субјекат"],
+                "grade": 4,
+                "correctAnswers": ["субјекат"],
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Просте непроширене реченице се састоје само од субјекта и предиката.",
+                "type": "граматика",
+                "tags": ["реченични чланови", "субјекат", "предикат"],
+                "grade": 4,
+                "correctAnswer": true,
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која реченица је пример просте непроширене реченице?",
+                "options": [
+                    "Ветар дува са истока.",
+                    "Киша пада.",
+                    "Птице лете изнад реке.",
+                    "Деца играју фудбал на терену."
+                ],
+                "type": "граматика",
+                "tags": ["реченични чланови", "просте реченице"],
+                "grade": 4,
+                "correctAnswerMC": "Киша пада.",
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        }
+    ]
+    

@@ -1,0 +1,171 @@
+{
+    "title": "Срећна Нова година\n (Душан Радовић)",
+    "description": "",
+    "topic":"66eea97adec7c96b57daa4fa",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Трепти звезда плавим оком<br>на небу високом,<br>пршти, пршти бела стаза,<br>ево Деда Мраза.</p><p><br>На шубари му снег,<br>а иње у коси,<br>отвор'те му широм врата,<br>поклоне вам носи.</p><p><br>Мени лутку белу што уме да&nbsp;спава.<br>Мени пушку праву да убијем&nbsp;лава.<br>Мени лопту гумену.<br>Мени лук и стрелу.</p><p><br>Мени пушку.<br>Мени лопту.<br>Мени лутку белу.</p><p><br>Свима много радости,<br>игре и песама.<br>Срећна Нова година<br>и нама и вама.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/cqXMo_lbH8c?si=D-YXXHFfjN9ZZvkE" 
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>иње</font> – замрзнуте капљице воде, које се појављују рано ујутру на лишћу<br> - <font color='#42f545'>шубара</font> – зимска капа од крзна",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко долази у песми \"Срећна Нова година\" Душана Радовића?",
+                "options": [
+                    "Деда Мраз",
+                    "Снежана",
+                    "Патуљци",
+                    "Зека"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Деда Мраз",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта се налази на шубари Деда Мраза у песми \"Срећна Нова година\"?",
+                "options": [
+                    "Снег",
+                    "Звезда",
+                    "Цвеће",
+                    "Листови"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи"],
+                "grade": 1,
+                "correctAnswerMC": "Снег",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+     
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је празник описан у песми \"Срећна Нова година\" Душана Радовића?",
+                "options": [
+                    "Нова година",
+                    "Божић",
+                    "Ускрс",
+                    "Дан детета"
+                ],
+                "type": "књижевност",
+                "tags": ["празници"],
+                "grade": 1,
+                "correctAnswerMC": "Нова година",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је обавијено ињем у песми \"Срећна Нова година\"?",
+                "options": [
+                    "Коса Деда Мраза",
+                    "Рукавице",
+                    "Шубара",
+                    "Чизме"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи"],
+                "grade": 1,
+                "correctAnswerMC": "Коса Деда Мраза",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је завршни поздрав у песми \"Срећна Нова година\"?",
+                "options": [
+                    "Срећна Нова година!",
+                    "Видимо се ускоро!",
+                    "Свако добро!",
+                    "Лаку ноћ!"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи", "поруке"],
+                "grade": 1,
+                "correctAnswerMC": "Срећна Нова година!",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је присутан у песми \"Срећна Нова година\" осим Деда Мраза?",
+                "options": [
+                    "Деца",
+                    "Родитељи",
+                    "Учитељи",
+                    "Патуљци"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Деца",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        }
+    ]
+    

@@ -1,0 +1,242 @@
+{
+    "title": "Деда и репа\n (народна прича)",
+    "description": "",
+    "topic":"66ee0192dec7c96b57daa142",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Посејао деда репу. Израсте репа велика, голема, преголема.<br>Стаде деда репу чупати из земље: повуци, потегни, ишчупати не може.<br>Позове деда у помоћ баку.<br>Бака за деду, деда за репу: повуци, потегни, ишчупати не могу.<br>Позове бака у помоћ унуку.<br>Унука за баку, бака за даду, дада за репу: повуци, потегни, ишчупати не могу.<br>Позове унука у помоћ пса.<br>Пас за унуку, унука за баку, бака за деду, деда за репу: повуци, потегни, ишчупати не могу.<br>Позове пас у помоћ мацу.<br>Маца за пса, пас за унуку, унука за баку, бака за деду, деда за репу: повуци, потегни, ишчупати не могу.<br>Позове маца у помоћ миша.<br>Миш за мацу, маца за пса, пас за унуку, унука за баку, бака за деду, деда за репу: повуци, потегни, ишчупају репу!",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/Gh69qF3Bc4o?si=OE6D-g9JqqpZO_uQ" 
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>голема</font> – велика<br>- <font color='#42f545'>преголема</font> – превелика",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је први почео да чупа репу у причи 'Деда и репа'?",
+                "options": [
+                    "Деда",
+                    "Бака",
+                    "Унука",
+                    "Пас"
+                ],
+                "type": "књижевност",
+                "tags": ["редослед", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Деда",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је помогао деди да ишчупа репу у причи 'Деда и репа'?",
+                "options": [
+                    "Бака",
+                    "Миш",
+                    "Унука",
+                    "Сви су помагали"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "порука"],
+                "grade": 1,
+                "correctAnswerMC": "Сви су помагали",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је било најмање створење које је помогло у причи 'Деда и репа'?",
+                "options": [
+                    "Миш",
+                    "Пас",
+                    "Маца",
+                    "Унука"
+                ],
+                "type": "књижевност",
+                "tags": ["животиње", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Миш",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто деда није могао сам да ишчупа репу у причи 'Деда и репа'?",
+                "options": [
+                    "Била је превелика",
+                    "Био је уморан",
+                    "Није хтео",
+                    "Била је превисоко"
+                ],
+                "type": "књижевност",
+                "tags": ["узрок", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Била је превелика",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је дошао после унуке да помогне у причи 'Деда и репа'?",
+                "options": [
+                    "Пас",
+                    "Миш",
+                    "Бака",
+                    "Маца"
+                ],
+                "type": "књижевност",
+                "tags": ["редослед", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Пас",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта се догодило када су сви заједно повукли репу у причи 'Деда и репа'?",
+                "options": [
+                    "Ишчупали су је",
+                    "Репа је пала",
+                    "Ништа се није десило",
+                    "Репа је нестала"
+                ],
+                "type": "књижевност",
+                "tags": ["догађаји", "завршетак"],
+                "grade": 1,
+                "correctAnswerMC": "Ишчупали су је",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је последњи лик који се појавио у причи 'Деда и репа'?",
+                "options": [
+                    "Миш",
+                    "Маца",
+                    "Пас",
+                    "Унука"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "редослед"],
+                "grade": 1,
+                "correctAnswerMC": "Миш",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је порука приче 'Деда и репа'?",
+                "options": [
+                    "Слога и заједништво су важни",
+                    "Треба увек бити најјачи",
+                    "Не треба никоме помагати",
+                    "Важно је имати много новца"
+                ],
+                "type": "књижевност",
+                "tags": ["порука", "поука"],
+                "grade": 1,
+                "correctAnswerMC": "Слога и заједништво су важни",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је миш важан у причи 'Деда и репа'?",
+                "options": [
+                    "Помогао је да се репа ишчупа",
+                    "Он је највећи",
+                    "Он је појео репу",
+                    "Он је причао причу"
+                ],
+                "type": "књижевност",
+                "tags": ["улога", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Помогао је да се репа ишчупа",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које животиње су учествовале у причи 'Деда и репа'?",
+                "options": [
+                    "Пас, маца, миш",
+                    "Лисица, вук, медвед",
+                    "Петао, патка, гуска",
+                    "Мачка, пас, коњ"
+                ],
+                "type": "књижевност",
+                "tags": ["животиње", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Пас, маца, миш",
+                "topic": "66ec46b84d960a3e76871f3c"
+            }
+        }
+    ]
+    

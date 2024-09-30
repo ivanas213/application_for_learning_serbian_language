@@ -1,0 +1,321 @@
+{
+    "title": "Суђење \n(Лаза Лазић)",
+    "description": "",
+    "topic":"66ec46304d960a3e76871d23",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ЛИЦА: <font color=\"#008000\">ОПТУЖЕНИ</font>, зец,  <font color='#0000FF'>СУДИЈА</font>, лисац, <font color='#FF0000'>ТУЖИЛАЦ</font>, лисац, <font color='#800080'>СВЕДОК</font>, лисац и <font color='#008000'>БРАНИЛАЦ </font>, зец",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Позорница је декорисана као судска дворана: лево је тужиочев сто, десно&nbsp;браниочев, у средини судијин. Пред судијиним столом је клупа на којој се&nbsp;шћућурио зец. Судија, Тужилац и сведок имају јасно наглашене костиме&nbsp;лисица, а оптужени и бранилац зеца.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": true,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color=\"#0000ff\">СУДИЈА</font>: Оптужени, устани.<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Устао сам.<br><font color=\"#0000ff\">СУДИЈА</font>: Како се зовете?<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Поштовани судија, зовем се зец.<br><font color=\"#0000ff\">СУДИЈА</font>: Зец, добро, а презиме?<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Нема презиме, поштовани судија.<br><font color=\"#0000ff\">СУДИЈА</font>: Шта сте по занимању?<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Па, како, шта ја знам... Животиња, поштовани судија, глодар...<br><font color=\"#0000ff\">СУДИЈА</font>: Јесте ли разумели зашто сте оптужени и зашто вам се суди?<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Разумео сам поштовани судија.<br><font color=\"#0000ff\">СУДИЈА</font>: Осећате ли се кривим?<br><font color=\"#008000\">ОПТУЖЕНИ</font>: Не, не осећам се кривим.<br><font color=\"#0000ff\">СУДИЈА</font>: Добро, има реч тужилац.<br><font color=\"#ff0000\">ТУЖИЛАЦ</font>: Тужим овде овог Зеца за крађу једног купуса. Тужим овог овде Зеца за покушај бегства када смо га гонили да га ухватимо. Овај овде Зец је преступник, а уз то и врло брзо трчи. Захтевам да га казнимо!<br><font color=\"#0000ff\">СУДИЈА</font>: Добро, нека уђе сведок.<br><font color=\"#800080\">СВЕДОК</font>: (улази) Ушао сам.<br><font color=\"#0000ff\">СУДИЈА</font>: Јесте ли ви, сведоче, видели када је овај Зец украо купус?<br><font color=\"#800080\">СВЕДОК</font>: Ја, хе, хм, да, овај, видео сам.<br><font color=\"#0000ff\">СУДИЈА</font>: Шта сте видели сведоче? Испричајте.<br><font color=\"#800080\">СВЕДОК</font>: Хм, хе. Дошао овај овде Зец и украо десет главица купуса.<br><font color=\"#0000ff\">СУДИЈА</font>: Десет! Како сад десет! Па како их је однео?<br><font color=\"#800080\">СВЕДОК</font>: Како? Овај, хм, ја па тако: ставио у џеп и однео.<br><font color=\"#0000ff\">СУДИЈА</font>: Закуните се.<br><font color=\"#800080\">СВЕДОК</font>: Тако ми репа.<br><font color=\"#0000ff\">СУДИЈА</font>: Верујем вам.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: Поштовани судија, молим за реч.<br><font color=\"#0000ff\">СУДИЈА</font>: А, изволите, браниоче. Ви браните Зеца, је ли тако?<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: Да. Поставио бих питање тужиоцу.<br><font color=\"#0000ff\">СУДИЈА</font>: Може.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: Цењени тужиоче, волите ли ви кисео купус?<br><font color=\"#ff0000\">ТУЖИЛАЦ</font>: Не.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: А сладак купус? Пресан? У салати?<br><font color=\"#ff0000\">ТУЖИЛАЦ</font>: Не. Брррр.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: Разуме се. Тако сам и мислио. А шта сте ви, овако, као животиња? Као животињска врста?<br><font color=\"#ff0000\">ТУЖИЛАЦ</font>: Ја сам лисац.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: А ви сведоче, (обраћа се сведоку), шта сте ви?<br><font color=\"#800080\">СВЕДОК</font>: Ја сам лисац.<br><font color=\"#ffa500\">БРАНИЛАЦ</font>: Хвала. ето, поштовани судија, ја мислим да зец није крив.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"(Kad se digne zavesa, pozornica je prazna. S leve strane nailazi poštar s torbom i pismima i produžuje ka desnoj strani. Iza kulisa se čuje Brankičino dozivanje.)",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": true
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                        "content":"<br><font color='#0000FF'>BRANKICA:</font> Čika poštare, molim Vas, ima li štogod za Brankicu Nedeljković?<br><font color='#008000'>POŠTAR:</font> Za Brankicu Nedeljković?... Čekaj, sad ću ja da vidim. (Pretura po pismima.) U kojem broju ti stanuješ?<br><font color='#0000FF'>BRANKICA:</font> U broju dvanaest...<br><font color='#008000'>POŠTAR:</font> Aha... dvanaest... Evo deset... jedanaest... Brankica Nedeljković! Tačno! Evo jedne dopisnice s mora! (Pruža joj pismo.)<br><font color='#0000FF'>BRANKICA:</font> Jao! Hvala vam, čika poštare! Kako je dugo čekam! (Brankica ostaje na sredini pozornice i čita pismo. Poštar prolazi i nestaje na desnoj strani. Nailazi Đoka s desne strane.)<br><font color='#FFA500'>ĐOKA:</font> Od koga si to, Brankice, dobila pismo?<br><font color='#0000FF'>BRANKICA:</font> Pisala mi Milkica iz letovališta... Ćuti kad čitam...<br><font color='#FFA500'>ĐOKA:</font> Milkica! Hi! Iz letovališta. Baš me zanima kako se dosađuje. Tamo nema nikakve zabave. Ustani, lezi, plivaj, izlazi – sve na komandu. Zato nisam ni išao s đacima... Pa šta piše?<br><font color='#0000FF'>BRANKICA:</font> Pa čekaj, nisam još ni ja sve pročitala...<br><font color='#FFA500'>ĐOKA:</font> Čitaj naglas, da i ja čujem...<br><font color='#0000FF'>BRANKICA:</font> (čita polako i glasno): „Draga moja Brankice, oprosti što se nisam ranije javila. Nisam imala vremena. Na letovanju je tako divno da se ne može opisati. Kupamo se i plivamo celi dan...”<br><font color='#FFA500'>ĐOKA:</font> Ih, baš po ceo dan... A za ručak, a odmor posle ručka...<br><font color='#0000FF'>BRANKICA:</font> Čekaj, što si dosadan. Ako kaže ceo dan, onda ceo dan... (Čita.) „Imamo i sandoline pa se vozimo...”<br><font color='#FFA500'>ĐOKA:</font> Ih, što ja volim da se vozim sandolinom!<br><font color='#0000FF'>BRANKICA:</font> „Naučila sam i da se gnjuram! Nalovila sam puno školjki i ježeva dubinskih, ljubičastih i žutih...”<br><font color='#FFA500'>ĐOKA:</font> Uh, što ja nisam tamo! Da vidiš šta bih ja tek ulovio... Ona to sve pokupi na obali kad se voda povuče...<br><font color='#0000FF'>BRANKICA:</font> Misliš kad je oseka...<br><font color='#FFA500'>ĐOKA:</font> Dabome, kad je oseka...<br><font color='#0000FF'>BRANKICA:</font> Ti misliš, ako je moja drugarica, ne ume da se gnjura!... Čekaj da pročitam sve... (Čita.) „Doneću svima u dvorištu po jednu školjku, i tebi i Đoki i Rajku... A sad vas sve pozdravlja i voli i očekuje vaše zajedničko pismo vaša Milkica.” (Žalosno.) Jesi li video kako se oni lepo zabavljaju... A mi?<br><font color='#FFA500'>ĐOKA:</font> Mi. Ništa. Više mi se ne ide u bioskop, ni u cirkus... ni uopšte.<br><font color='#0000FF'>BRANKICA:</font> Milkica vadi školjke i ježeve... Pa to je da čovek pukne!<br><font color='#FFA500'>ĐOKA:</font> Stvarno da pukneš od muke... Hoćeš li joj pisati?<br><font color='#0000FF'>BRANKICA:</font> Pa moram. Nema smisla da joj ne pišem. Nije ona ništa kriva što mi nismo hteli sa školom... Idem odmah da joj pišem...<br><font color='#FFA500'>ĐOKA:</font> Stvarno mi dođe da puknem!<br><font color='#0000FF'>BRANKICA:</font> A ti misliš da je meni lakše.",                
+                        "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#ff0000'>Druga slika</font>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+      
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"(Trpezarija letovališta. Na sredini sto, sa strane klupe. Milkica u sredini. Nekoliko dece sa strane... Veče je. Deca su umorna. Neka se podnimila na sto. Neka čitaju knjigu.)",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": true
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                        "content":"<font color='#FF0000'>I DEČAK:</font> Jao što sam umoran. Jedva čekam da spavam... <br><font color='#FF00FF'>I DEVOJČICA:</font> Mene sve bole ruke i leđa od plivanja... <br><font color='#0000FF'>II DEČAK:</font> A vidi ove žuljeve od veslanja! <br><font color='#FFA500'>II DEVOJČICA:</font> Jao, što je strašno! Kad će to proći... (Ulazi tetkica sa pismima. Deca poskaču.) <br><font color='#800080'>DECA:</font> Jao, pisma! Pisma! <br><font color='#008000'>TETKICA:</font> Pisma, deco! Polako samo. Bez galame... <br><font color='#FF0000'>I DEČAK:</font> Ima li, tetkice, nešto za mene? <br><font color='#FF00FF'>I DEVOJČICA:</font> Tetkice, za mene? <br><font color='#008000'>TETKICA:</font> Svi ćete dobiti. Polako. (Proziva.) Stefanović Svetozar! <br><font color='#FF0000'>I DEČAK:</font> Moje! <br><font color='#008000'>TETKICA:</font> Kostić Spomenka! (Dobija druga devojčica.) <br><font color='#0000FF'>II DEČAK:</font> (Prilazi i uzima pismo.): Ovo je moje. Poznajem rukopis. (Otvara i čita pismo.) <br><font color='#008000'>TETKICA:</font> Radić Milkica! <br><font color='#800080'>MILKICA:</font> To je za mene! Jao! Dva pisma! <br><font color='#FF00FF'>DEVOJČICE:</font> Ko ti je to još pisao, Milkice? <br><font color='#800080'>MILKICA:</font> Sigurno drugarica? Jeste. Od Brankice. <br><font color='#800080'>SVA DECA:</font> Šta piše? (Tetkica odlazi, a deca se skupljaju oko Milkice.) <br><font color='#800080'>MILKICA:</font> Čekajte, sad ću da vidim... To mi ona odgovara na pismo... <br><font color='#FF0000'>I DEČAK:</font> Ih! Šta može da piše. Sigurno se dosađuje... <br><font color='#0000FF'>II DEČAK:</font> Ne bih sad bio u gradu... <br><font color='#800080'>MILKICA</font> (čita): „Draga Milkice, ja i Svetlana ti pišemo zajednički i prosto ti zavidimo.” <br><font color='#FF0000'>I DEČAK:</font> Nego šta, moraju da zavide! <br><font color='#FF00FF'>I DEVOJČICA:</font> Pa ćuti, pusti da čita! <br><font color='#800080'>MILKICA</font> (čita): „Kod nas nema nikakvih novosti. Išla sam triput u bioskop. Davali su se crtani filmovi...” <br><font color='#800080'>SVA DECA</font> (zadivljeno): Jao, crtani filmovi! Blago njima... <br><font color='#800080'>MILKICA:</font> „... Pre tri dana je dolazio teča iz Zrenjanina, pa je vodio mene i Svetlanu u cirkus. Nisam ti rekla da je u naš grad stigao cirkus. Gostuje još nedelju dana, i žao mi je što ga nećeš zateći...” <br><font color='#FF00FF'>I DEVOJČICA:</font> Jeste li videli, deco! <br><font color='#0000FF'>II DEČAK:</font> Jao, cirkus! <br><font color='#800080'>MILKICA:</font> Pa ćutite... „Program je mnogo lep: dresirani medvedi, samo beli, nisu crni, pa slonovi, jao, pa klovnovi... da vidiš samo kako su smešni...” <br><font color='#FF0000'>I DEČAK:</font> E, baš nema smisla, kad nismo tamo – dolazi cirkus! <br><font color='#0000FF'>II DEČAK:</font> Meni je krivo zbog crtanih filmova... Strašno volim crtane filmove! <br><font color='#FF00FF'>I DEVOJČICA:</font> Ja nikad nisam videla dresirane medvede! <br><font color='#0000FF'>II DEČAK:</font> Kao da sam ih ja video! <br><font color='#800080'>MILKICA</font> (plačljivo): A ja toliko volim crtane filmove... Sedam puta sam gledala Snežanu i Gulivera... Pa to je da čovek pukne od muke! <br><font color='#0000FF'>II DEČAK:</font> Baš da pukne! <br><font color='#800080'>SVI:</font> Ništa drugo nego da puknemo od muke!", 
+                        "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                        "content":"(завеса)<br>", 
+                        "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                        "content":"Dramski tekst se deli na <font color='#ff0000'> dramske slike</font> ili činove. Tokom predstave menja se izgled pozornice. U dramskom tekstu ima onoliko dramskih slika koliko ima promena izgleda pozornice. Spuštanje zavesa govori nam da je kraj čina ili predstave.",                
+                        "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "• <font color='#42f545'>глодари</font> – врста животиња које глођу храну<br> - <font color='#42f545'>оптужени</font> – лице које је оптужено због непоштовања закона<br> - <font color='#42f545'>тужилац</font> – особа која неког тужи, подноси тужбу суду<br> - <font color='#42f545'>сведок</font> – особа која сведочи, даје изјаву о неком догађају<br> - <font color='#42f545'>судија</font> – лице које пресуђује оптуженом<br> - <font color='#42f545'>бранилац</font> – особа која брани оптуженог, адвокат<br> - <font color='#42f545'>преступник</font> – особа која поступа супротно закону<br> - <font color='#42f545'>заклети се</font> – поуздано потврдити да се говори истина<br> - <font color='#42f545'>пресан</font> – свеж, некуван<br> - <font color='#42f545'>пресуда</font> – судска одлука<br>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+          
+          
+          
+    ]}
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко је тужен у делу 'Суђење'?",
+            "options": [
+                "Зец",
+                "Лисац",
+                "Судија",
+                "Бранилац"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "суд",
+                "животиње"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Зец",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како се оптужени изјашњава у вези са оптужбом за крађу купуса?",
+            "options": [
+                "Осећа се кривим",
+                "Не осећа се кривим",
+                "Не зна",
+                "Одбија да одговори"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "оптужба",
+                "правда"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Не осећа се кривим",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    }
+    ,
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Који доказ је представљен на суду у вези са крађом купуса у делу 'Суђење'?",
+            "options": [
+                "Огрлица",
+                "Купусова главица",
+                "Откинути лист",
+                "Писмо"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "докази",
+                "судски процес"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Откинути лист",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко доноси пресуду на крају дела 'Суђење'?",
+            "options": [
+                "Судија",
+                "Велики Жири",
+                "Сведок",
+                "Тужилац"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "правосуђе",
+                "судија"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Судија",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како оптужени реагује на пресуду у делу 'Суђење'?",
+            "options": [
+                "Љутито",
+                "Спокојно",
+                "Суздржано",
+                "Уплашено"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "реакција",
+                "емоције"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Суздржано",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Који је главни мотив дела 'Суђење'?",
+            "options": [
+                "Правда и неправда",
+                "Љубав",
+                "Освета",
+                "Пријатељство"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "мотиви",
+                "порука"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Правда и неправда",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Који лик у делу 'Суђење' је симбол правде?",
+            "options": [
+                "Судија",
+                "Тужилац",
+                "Сведок",
+                "Оптужени"
+            ],
+            "type": "књижевност",
+            "tags": [
+                "симболи",
+                "правда"
+            ],
+            "grade": 3,
+            "correctAnswerMC": "Судија",
+            "topic": "66ec46164d960a3e76871cbf"
+        }
+    }
+        

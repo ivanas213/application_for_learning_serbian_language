@@ -1,0 +1,202 @@
+{
+    "title": "Дете\n (Љубивоје Ршумовић)",
+    "description": "",
+    "topic":"66ee090bdec7c96b57daa243",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Дете није дете<br>Играчка за стрине и тете<br>Дете је дете<br>Да га волите и разумете</p><p>Нећете ми веровати<br>И велики песник Гете<br>Некада је био беба<br>И веома немирно дете</p><p>Бркати хајдук Вељко<br>Што је злотвору прашио пете<br>У почетку је сисао палац<br>И био немогуће дете</p><p>Јунаци космоса<br>Који лете на друге планете<br>Прво су седели на ношама<br>А после су сели у ракете</p><p>Дете није дете<br>Играчка за стрине и тете<br>Дете је дете<br>Да га волите и разумете</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/hft3cW6uGco?si=9HnvOnElHQ8JyJQv" 
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>Гете</font> – познати немачки песник<br>- <font color='#42f545'>злотвор</font> – зао човек<br>- <font color='#42f545'>космос</font> – свемир, васиона, пространство без краја<br>- <font color='#42f545'>прашити пете</font> – ударати некога, терати га, јурити<br>- <font color='#42f545'>хајдук</font> – борац за слободу у давној прошлости",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+    ]}
+    [
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко је био Гете у песми 'Дете'?",
+            "options": [
+              "Хајдук",
+              "Песник",
+              "Астронаут",
+              "Пилот"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "Гете"],
+            "grade": 1,
+            "correctAnswerMC": "Песник",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је јунак Хајдук Вељко радио као дете у песми 'Дете'?",
+            "options": [
+              "Сисао палац",
+              "Летео у ракети",
+              "Био у школи",
+              "Возио ауто"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "хајдук Вељко"],
+            "grade": 1,
+            "correctAnswerMC": "Сисао палац",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта су јунаци космоса прво радили пре него што су летели на друге планете у песми 'Дете'?",
+            "options": [
+              "Седели на ношама",
+              "Писали песме",
+              "Читали књиге",
+              "Играли фудбал"
+            ],
+            "type": "књижевност",
+            "tags": ["космос", "јунаци"],
+            "grade": 1,
+            "correctAnswerMC": "Седели на ношама",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је дете, према Љубивоју Ршумовићу у песми 'Дете'?",
+            "options": [
+              "Играчка за стрине и тете",
+              "Неко кога треба волети и разумети",
+              "Неко ко је увек тих и миран",
+              "Јунак космоса"
+            ],
+            "type": "књижевност",
+            "tags": ["опис детета", "песма"],
+            "grade": 1,
+            "correctAnswerMC": "Неко кога треба волети и разумети",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је заједничко свим јунацима у песми 'Дете'?",
+            "options": [
+              "Сви су били деца",
+              "Сви су били писци",
+              "Сви су били пилоти",
+              "Сви су били песници"
+            ],
+            "type": "књижевност",
+            "tags": ["јунаци", "песма"],
+            "grade": 1,
+            "correctAnswerMC": "Сви су били деца",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта треба радити са децом, према песми 'Дете'?",
+            "options": [
+              "Волети их и разумети",
+              "Игнорисати их",
+              "Усмерити их да буду песници",
+              "Пустити их да се играју сами"
+            ],
+            "type": "књижевност",
+            "tags": ["деца", "љубав"],
+            "grade": 1,
+            "correctAnswerMC": "Волети их и разумети",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Ко је сисао палац у песми 'Дете'?",
+            "options": [
+              "Хајдук Вељко",
+              "Гете",
+              "Песник",
+              "Јунак космоса"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "песма"],
+            "grade": 1,
+            "correctAnswerMC": "Хајдук Вељко",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта дете није, према песми 'Дете'?",
+            "options": [
+              "Играчка за стрине и тете",
+              "Неко кога треба волети",
+              "Песник",
+              "Јунак"
+            ],
+            "type": "књижевност",
+            "tags": ["опис детета", "песма"],
+            "grade": 1,
+            "correctAnswerMC": "Играчка за стрине и тете",
+            "topic": "66ee090bdec7c96b57daa243"
+          }
+        }
+      ]
+      

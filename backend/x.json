@@ -1,0 +1,116 @@
+{
+    "_id": {
+      "$oid": "66d05d918d803eb3f261e62c"
+    },
+    "title": "Глас, слово и реч",
+    "description": "",
+    "topic": {
+      "$oid": "66d043ed8f5b79dd3e66fc6f"
+    },
+    "contentBlocks": [
+      {
+        "type": "text",
+        "textBlock": {
+          "content": "У нашем језику има 30 гласова. Изговорене гласове записујемо знацима — словима. Сваки глас записујемо одговарајућим словом.",
+          "style": {
+            "fontSize": 24,
+            "color": "#000000",
+            "bold": false,
+            "italic": false
+          },
+          "annotations": [],
+          "position": 1,
+          "_id": {
+            "$oid": "66d05d918d803eb3f261e62e"
+          }
+        },
+        "_id": {
+          "$oid": "66d05d918d803eb3f261e62d"
+        }
+      },
+      {
+        "type": "image",
+        "imageBlock": {
+          "position": 2,
+          "alignment": "center",
+          "_id": {
+            "$oid": "66d05d918d803eb3f261e630"
+          }
+        },
+        "_id": {
+          "$oid": "66d05d918d803eb3f261e62f"
+        }
+      },
+      {
+        "type": "text",
+        "textBlock": {
+          "content": "Најмањи део изговорене речи је глас.Најмањи део написане речи је слово.",
+          "style": {
+            "fontSize": 24,
+            "color": "#000000",
+            "bold": false,
+            "italic": false
+          },
+          "annotations": [],
+          "position": 3,
+          "_id": {
+            "$oid": "66d05d918d803eb3f261e632"
+          }
+        },
+        "_id": {
+          "$oid": "66d05d918d803eb3f261e631"
+        }
+      },
+      {
+        "type": "text",
+        "textBlock": {
+          "content": "Изговорене речи су састављене од гласова.Написане речи су састављене од слова.Написане реченице су састављене од речи.",
+          "style": {
+            "fontSize": 24,
+            "color": "#000000",
+            "bold": false,
+            "italic": false
+          },
+          "annotations": [],
+          "position": 4,
+          "_id": {
+            "$oid": "66d05d918d803eb3f261e634"
+          }
+        },
+        "_id": {
+          "$oid": "66d05d918d803eb3f261e633"
+        }
+      },
+      {
+        "type": "question",
+        "questionBlock": {
+          "$oid": "66d6ff92849f4f01b024e39a"
+        },
+        "_id": {
+          "$oid": "66d6ff92849f4f01b024e3a0"
+        }
+      },
+      {
+        "type": "question",
+        "questionBlock": {
+          "$oid": "66d6ffdb849f4f01b024e3a3"
+        },
+        "_id": {
+          "$oid": "66d6ffdb849f4f01b024e3aa"
+        }
+      },
+      {
+        "type": "question",
+        "questionBlock": {
+          "$oid": "66d6ffeb849f4f01b024e3ad"
+        },
+        "_id": {
+          "$oid": "66d6ffeb849f4f01b024e3b5"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-08-29T11:37:53.206Z"
+    },
+    "__v": 7
+  }

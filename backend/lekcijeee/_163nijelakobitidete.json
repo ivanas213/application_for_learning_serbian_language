@@ -1,0 +1,200 @@
+{
+    "title": "Није лако бити дете\n (Драгомир Ђорђевић)",
+    "description": "",
+    "topic":"66ee090bdec7c96b57daa243",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Често једеш, тврдо спаваш,<br>Много јурцаш, правиш штете....<br>Кад те грде, одобраваш,<br>- Није лако бити дете.</p><p><br>&bdquo;Лепо жваћи!\", \"Пери руке,<br>&bdquo;Бежи даље од тог Срете!\",<br>&bdquo;С тобом стално неке муке!\",<br>- Није лако бити дете.</p><p><br>Батинама кад се надаш,<br>У одбрану зову тете,<br>Пред прутом се испрепадаш<br>- Није лако бити дете.</p><p><br>На дрвеће кад се пењеш,<br>Тајно волиш Оље, Цвете....<br>Под теретом торбе стењеш<br>- Није лако бити дете.</p><p><br>Чим спазе да ниси мали,<br>Зрелошћу ти неком прете,<br>Живот јесте згодан, али...<br>- Није лако бити дете.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/Q9YIaZW_DyY?si=Ou4VDETOEDxTczJH"
+        }},
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>зрелост</font> – способмост особе да самостално одлучује о својим правима и обавезама",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које реченице одрасли често кажу детету у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Лепо пиши!",
+                    "Лепо жваћи!",
+                    "Трчи брже!",
+                    "Играј се више!"
+                ],
+                "type": "књижевност",
+                "tags": ["речи одраслих", "поруке"],
+                "grade": 1,
+                "correctAnswerMC": "Лепо жваћи!",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Кога дете тајно воли у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Оље и Цвете",
+                    "Милице и Маре",
+                    "Симе и Мине",
+                    "Милоше и Николе"
+                ],
+                "type": "књижевност",
+                "tags": ["осећања", "тајне"],
+                "grade": 1,
+                "correctAnswerMC": "Оље и Цвете",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Чега се дете уплаши у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Прича",
+                    "Прста",
+                    "Прута",
+                    "Пасте"
+                ],
+                "type": "књижевност",
+                "tags": ["страхови", "дете"],
+                "grade": 1,
+                "correctAnswerMC": "Прута",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+       
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Какве проблеме има дете у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Увек има лепе тренутке",
+                    "Има неке муке",
+                    "Нема пролеме"
+                ],
+                "type": "књижевност",
+                "tags": ["муке", "проблеми"],
+                "grade": 1,
+                "correctAnswerMC": "Има неке муке",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта дете ради кад очекује батине у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Плаче",
+                    "Зове тете у помоћ",
+                    "Трчи кући",
+                    "Крије се"
+                ],
+                "type": "књижевност",
+                "tags": ["страх", "помоћ"],
+                "grade": 1,
+                "correctAnswerMC": "Зове тете у помоћ",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта дете често ради у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Пење се на дрвеће",
+                    "Трчи око школе",
+                    "Пише песме",
+                    "Игра се с лоптом"
+                ],
+                "type": "књижевност",
+                "tags": ["активности", "забава"],
+                "grade": 1,
+                "correctAnswerMC": "Пење се на дрвеће",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Чему одрасли прете у песми \"Није лако бити дете\"?",
+                "options": [
+                    "Батинама",
+                    "Зрелошћу",
+                    "Школом",
+                    "Забраном играња"
+                ],
+                "type": "књижевност",
+                "tags": ["претње", "зрелост"],
+                "grade": 1,
+                "correctAnswerMC": "Зрелошћу",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Коју поруку носи песма \"Није лако бити дете\"?",
+                "options": [
+                    "Деци је увек лако",
+                    "Одрасли увек помажу деци",
+                    "Бити дете има и лепе и тешке стране",
+                    "Деца никад немају проблеме"
+                ],
+                "type": "књижевност",
+                "tags": ["поруке", "поуке"],
+                "grade": 1,
+                "correctAnswerMC": "Бити дете има и лепе и тешке стране",
+                "topic": "66ee090bdec7c96b57daa243"
+            }
+        }
+    ]
+    

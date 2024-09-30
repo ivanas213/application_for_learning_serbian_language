@@ -1,0 +1,117 @@
+{
+    "title": "Речца НЕ уз именице и придеве",
+    "description": "",
+    "topic":"66da3ad29d90b9966e86c491",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Питали <strong>непознати</strong> људи жену да ли је истина да има <strong>немирно</strong> дете.<br>- То је <strong>неистина</strong>! - узвикну жена. - То мора да су вам рекле <strong>незналице</strong> које<br><strong>не познају</strong> моје дете. <strong>Не верујте</strong> им. Мирно је када спава.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Речцу <font color='#FF0000'>НЕ</font> пишемо састављено са именицама и придевима, а одвојено од глагола.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"&bull; Добар човек <font color='#FF0000'>нема</font> непријатеља.<br>&bull; Иван је избегао саобраћајну <font color='#FF0000'>несрећу</font>.<br>&bull; Мој деда је <font color='#FF0000'>неписмен</font> човек.<br>&bull; Лука је <font color='#FF0000'>несташан</font> дечак.<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        
+    ]}
+
+    "questions": [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "spelling_correction",
+                "question": "Исправи правопис ако има грешака.",
+                "type": "правопис",
+                "tags": ["речца не", "именице", "придеви"],
+                "grade": 3,
+                "incorrectSpelling": "Деда је неписмен човек.",
+                "correctedSpelling": "Деда је неписмен човек.",
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која реч је написана неправилно?",
+                "options": ["непријатељ", "немир", "неверник", "незнам"],
+                "type": "граматика",
+                "tags": ["речца не", "именице"],
+                "grade": 3,
+                "correctAnswerMC": "незнам",
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "fill",
+                "question": "Допуни реченицу: Иван је избегао саобраћајну _.",
+                "type": "правопис",
+                "tags": ["речца не", "именице"],
+                "grade": 3,
+                "correctAnswers": ["несрећу", "незгоду"],
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је правилно написано?",
+                "options": [
+                    "не мирни дечак",
+                    "не зналице",
+                    "неписмен човек"
+                ],
+                "type": "граматика",
+                "tags": ["речца не", "придеви"],
+                "grade": 3,
+                "correctAnswerMC": "неписмен човек",
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Речца НЕ увек стоји одвојено од именица.",
+                "type": "граматика",
+                "tags": ["речца не", "правопис", "именице"],
+                "grade": 3,
+                "correctAnswer": false,
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        }
+    ]

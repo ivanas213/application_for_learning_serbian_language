@@ -1,0 +1,252 @@
+
+{
+    "title": "Потврдне и одричне реченице",
+    "description": "",
+    "topic":"66d043ed8f5b79dd3e66fc6f",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ПОТВРДНЕ РЕЧЕНИЦЕ:",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#00FF00",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Лука иде у школу.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Ружа ће процветати.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Зец једе купус.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#ff0000'>ОДРИЧНЕ РЕЧЕНИЦЕ:</font>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#FF0000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Лука не иде у школу.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Ружа неће процветати.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"\t-Зец не једе купус.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<br><b>Потврдним реченицама</b> се потврђује да нешто јесте или може да буде. <b>Одричним реченицама</b> се казује да нешто није извршено или не може да буде.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Реченице по значењу могу бити потврдне и одричне.",
+                "type":"граматика",
+                "tags":["реченица", "потврдна реченица", "одрична реченица"],
+                "grade":2,
+                "correctAnswer": false
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Реченице по облику могу бити потврдне и одричне.",
+                "type":"граматика",
+                "tags":["реченица", "потврдна реченица", "одрична реченица"],
+                "grade":2,
+                "correctAnswer": true
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Уна нема свеску.",
+                "questionType":"fill",
+                "text":"Ова реченица је по значењу _ а по облику _.",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["обавештајна","одрична"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Улазите унутра!",
+                "questionType":"fill",
+                "text":"Ова реченица је по значењу _ а по облику _.",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["заповедна","потврдна"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Зашто не певаш?",
+                "questionType":"fill",
+                "text":"Ова реченица је по значењу _ а по облику _.",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["упитна","одрична"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "question":"Ана свира клавир",
+                "questionType":"fill",
+                "text":"Ова реченица је по значењу _ а по облику _.",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["обавештајна","потврдна"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "question":"Напиши одрични облик следеће реченице\nРибар пеца рибу.",
+                "questionType":"classic",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["Рибар не пеца рибу."],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "question":"Напиши одрични облик следеће реченице\nСара има плаве очи.",
+                "questionType":"classic",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["Сара нема плаве очи."],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "question":"Напиши потврдни облик следеће реченице\nЗар Марко није у школи?",
+                "questionType":"classic",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["Зар је Марко у школи?"],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "question":"Напиши потврдни облик следеће реченице\nМира не иде на излет.",
+                "questionType":"classic",
+                "type":"граматика",
+                "tags":["речeница"],
+                "grade":2,
+                "correctAnswers":["Мира иде на излет."],
+                "topic":"66d043ed8f5b79dd3e66fc6f"
+
+            }
+        }
+        
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "title": "ПИСАЊЕ СА УЗ ЗАМЕНИЦЕ",
+    "description": "",
+    "topic":"66dc893d3208a52c58164e95",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"- Да ли хоћеш да идеш <font color=\"#FF0000\">са мном</font> у позориште?<br>- Хоћу! Волим да идем <font color=\"#FF0000\">с тобом</font> у позориште.<br>- Надам се да ће <font color=\"#FF0000\">с нама</font> бити и моја другарица Марија.<br>- <font color=\"#FF0000\">С њом</font> сам се раније упознала.<br>- Верујем да ће дружење <font color=\"#FF0000\">с вама</font> бити веома занимљиво.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Речи <font color=\"#FF0000\">с/са</font> пишу се одвојено од личних заменица. Реч <font color=\"#FF0000\">са</font> се обавезно&nbsp;пише уз заменицу првог лица једнине: <font color=\"#FF0000\">са мном</font>. Уз остале заменице&nbsp;пише се <font color=\"#FF0000\">с</font> (<font color=\"#FF0000\">с тобом</font>, <font color=\"#FF0000\">с њим</font>, <font color=\"#FF0000\">с њом</font>, <font color=\"#FF0000\">с нама</font>, <font color=\"#FF0000\">с вама</font>, <font color=\"#FF0000\">с њима</font>), али ни облик <font color=\"#FF0000\">са</font> није забрањен.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#fffacd",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        
+    ]}
+    [
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Уместо речи са може да се користи скраћени с ако стоји уз заменице и то важи за све заменице осим заменице ЈА.",
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "true_false",
+            "question": "Речи с и са увек се пишу одвојено од личних заменица.",
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswer":true,
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је НЕисправно?",
+            "options": ["стобом","с тобом","са тобом"],
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswerMC": "стобом",
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је НЕисправно?",
+            "options": ["свама","с вама","са вама"],
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswerMC": "свама",
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је НЕисправно?",
+            "options": ["с њим","са њим","сњим"],
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswerMC": "сњим",
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је НЕисправно?",
+            "options": ["с мном","с тобом","с њим"],
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswerMC": "стобом",
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта је НЕисправно?",
+            "options": ["са вама","с вама","свама"],
+            "type": "правопис",
+            "tags":["са уз заменице"],
+            "grade": 4,
+            "correctAnswerMC": "стобом",
+            "topic": "66dc893d3208a52c58164e95"
+        }
+    }
+]

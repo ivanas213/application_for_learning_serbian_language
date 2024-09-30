@@ -1,0 +1,133 @@
+{
+    "title": "Домовина се брани лепотом \n(Љубивоје Ршумовић)",
+    "description": "",
+    "topic":"66ec46164d960a3e76871cbf",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Домовина се брани реком<br>и рибом у води<br>и високом танком смреком<br>што расте у слободи.<br><br>Домовина се брани цветом<br>и пчелом у цвету<br>маком и сунцокретом<br>и птицом у лету.<br><br>Домовина се брани књигом<br>и песмом о небу<br>сестрином сузом и мајчином бригом<br>и оним брашном у хлебу.<br><br>Домовина се брани лепотом<br>и чашћу и знањем<br>домовина се брани животом<br>и лепим васпитањем.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        }, {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/V4C0iEmpXYY?si=b6ZthqzluGtXsPTp" 
+        }
+        }
+        ,
+        
+         
+        {
+            "type": "text",
+            "textBlock": {
+                "content": " Песма \"Домовина се брани лепотом\" је <font color='#34cfeb'>лирска родољубива песма</font>. Родољубиве песме певају о љубави према народу ком припадамо, родној земљи, домовини, њеној култури и обичајима.",                    
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>домовина</font> – држава у којој је неко рођен<br>- <font color='#42f545'>смрека</font> – врста дрвећа<br>",                    
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Домовина се брани реком и рибом у води.",
+                "type": "књижевност",
+                "tags": ["Домовина се брани лепотом", "Љубивоје Ршумовић"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66ec46164d960a3e76871cbf"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Домовина се брани само животом и лепим васпитањем.",
+                "type": "књижевност",
+                "tags": ["Домовина се брани лепотом", "Љубивоје Ршумовић"],
+                "grade": 2,
+                "correctAnswer": false,
+                "topic": "66ec46164d960a3e76871cbf"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "У песми се спомињу мајчина брига и сестрина суза као начини на које се брани домовина.",
+                "type": "књижевност",
+                "tags": ["Домовина се брани лепотом", "Љубивоје Ршумовић"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66ec46164d960a3e76871cbf"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Смрека, цветови и птице у песми представљају лепоту којом се брани домовина.",
+                "type": "књижевност",
+                "tags": ["Домовина се брани лепотом", "Љубивоје Ршумовић"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66ec46164d960a3e76871cbf"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Домовина се брани само оружјем и ратом.",
+                "type": "књижевност",
+                "tags": ["Домовина се брани лепотом", "Љубивоје Ршумовић"],
+                "grade": 2,
+                "correctAnswer": false,
+                "topic": "66ec46164d960a3e76871cbf"
+            }
+        }
+    ]
+   

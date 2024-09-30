@@ -1,0 +1,225 @@
+{
+    "title": "Писање присвојних придева",
+    "description": "",
+    "topic":"66da3abf9d90b9966e86c48d",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"На паноу су изложени <b>Мирини</b> и <b>Драганови</b> цртежи.<br>У парку су постављене <b>Иванове</b> и <b>Урошеве</b> скулптуре.<br> и <b>Недини</b> радови су изложени у музеју.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<br> У овом тексту присвојни придеви су написани почетним великим словом. Сви су они настали од властитих именица.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Присвојни придеви који се завршавају на <strong>-ов</strong>, <strong>-ев</strong> и -<strong>ин</strong>, а који су настали<br>од властитих именица, пишу се великим почетним словом.</p><hr>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>У датим реченицама се налазе присвојни придеви.<br>Смедерев<strong>ски</strong> и ни<strong>шки</strong> основци су посетили београдски сајам.<br>На пијаци се продају ужи<strong>чки</strong> кајмак и златар<strong>ски</strong> сир.<br>У продавницу су допремљени лескова<strong>чки</strong> ајвар и футо<strong>шки</strong> купус.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Присвојни придеви који се завршавају на <strong>-ски</strong>, <strong>-шки</strong> и <strong>-чки</strong>, а настали су од<br>властитих именица, пишу се малим почетним словом.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"• Смедерево - смедеревски<br>• Ниш - нишки<br>• Београд - београдски<br>• Ужице - ужички<br>• Лесковац - лесковачки<br>• Футог - футош<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"Малим почетним словом пишу се присвојни придеви који су изведени од заједничких именица.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"• прозор - прозорски<br>• болница - болнички<br>• тетка - теткин<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ако су присвојни придеви изведени од именица у којима се налази сугласник ј, онда се ј задржава у писању придева.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+         {
+            "type": "text",
+            "textBlock": {
+                "content":"• батерија - батеријски<br>• телевизија - телевизијски<br>• серија - серијки<br>• судија - судијски<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Присвојни придеви који се завршавају на -ов, -ев и -ин пишу се малим почетним словом.",
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswer":false,
+                "topic":"66da3abf9d90b9966e86c48d"
+
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Присвојни придеви изведени од властитих именица које се завршавају на -ски, -шки и -чки пишу се великим почетним словом.",
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswer":false,
+                "topic":"66da3abf9d90b9966e86c48d"
+
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"classic",
+                "question":"Како се пише присвојни придев изведен од речи „Лесковац”?",
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswers":["лесковачки"],
+                "topic":"66da3abf9d90b9966e86c48d"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Који придев је исправно написан?",
+                "options":["Јованин","Смедеревски","тањин","Лознички"],
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswerMC":"Јованин",
+                "topic":"66d8df6f90dfd493a4175617"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Који придев је исправно написан?",
+                "options":["Јованин","Смедеревски","тањин","Лознички"],
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswerMC":"Јованин",
+                "topic":"66d8df6f90dfd493a4175617"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Који придев је исправно написан?",
+                "options":["Прозорски","Мамин","Тањин","Татин"],
+                "type":"правопис",
+                "tags":["придеви", "присвојни придеви"],
+                "grade":3,
+                "correctAnswerMC":"Тањин",
+                "topic":"66d8df6f90dfd493a4175617"
+            }
+        }
+        
+    ]}

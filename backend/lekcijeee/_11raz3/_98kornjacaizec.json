@@ -1,0 +1,243 @@
+{
+    "title": "Корњача и зец \n(Езоп)",
+    "description": "",
+    "topic":"66e32bab9d4bbcb4974d5a24",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Корњача и зец се такмичили у брзини. Тако&nbsp;утврде они рок и место, те крену на пут. Знајући да&nbsp;је рођени тркач, зец се није толико бринуо за трку&nbsp;него леже крај пута и стаде дремати. Корњача је,&nbsp;знајући своју спорост, трчала без предаха, и тако&nbsp;престигне зеца који је спавао и добије победничку<br>награду.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        }
+          
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко су главни ликови у причи \"Корњача и зец\"?",
+                "options": ["Корњача и зец", "Миш и лав", "Мачка и пас", "Вук и јагње"],
+                "type": "књижевност",
+                "tags": ["ликови", "животиње"],
+                "grade": 2,
+                "correctAnswerMC": "Корњача и зец",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је зец изгубио трку у причи \"Корњача и зец\"?",
+                "options": ["Зато што је заспао", "Зато што је повредио ногу", "Зато што је одустао", "Зато што је био спор"],
+                "type": "књижевност",
+                "tags": ["радња", "поука"],
+                "grade": 2,
+                "correctAnswerMC": "Зато што је заспао",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је корњача урадила да би победила у причи \"Корњача и зец\"?",
+                "options": ["Трчала је без престанка", "Застала је да одмори", "Кренула је касније", "Замолила је зеца да успори"],
+                "type": "књижевност",
+                "tags": ["радња", "ликови"],
+                "grade": 2,
+                "correctAnswerMC": "Трчала је без престанка",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Каква је била корњачина тактика у трци у причи \"Корњача и зец\"?",
+                "options": ["Полако и упорно", "Брзо и без одмора", "Променљивом брзином", "Стално је стајала"],
+                "type": "књижевност",
+                "tags": ["стратегија", "ликови"],
+                "grade": 2,
+                "correctAnswerMC": "Полако и упорно",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је поука приче \"Корњача и зец\"?",
+                "options": ["Упорност побеђује", "Брзина је најважнија", "Пријатељство је најбитније", "Мудрост увек побеђује"],
+                "type": "књижевност",
+                "tags": ["поука", "морал"],
+                "grade": 2,
+                "correctAnswerMC": "Упорност побеђује",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто се зец није бринуо око трке у причи \"Корњача и зец\"?",
+                "options": ["Зато што је мислио да ће лако победити", "Зато што је био уморан", "Зато што није желео да победи", "Зато што је повредио ногу"],
+                "type": "књижевност",
+                "tags": ["ликови", "поуздање"],
+                "grade": 2,
+                "correctAnswerMC": "Зато што је мислио да ће лако победити",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је зец урадио током трке у причи \"Корњача и зец\"?",
+                "options": ["Заспао крај пута", "Трчао без престанка", "Одустао од трке", "Престао да трчи на пола пута"],
+                "type": "књижевност",
+                "tags": ["радња", "ликови"],
+                "grade": 2,
+                "correctAnswerMC": "Заспао крај пута",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта корњача представља у причи \"Корњача и зец\"?",
+                "options": ["Симбол упорности", "Симбол брзине", "Симбол храбрости", "Симбол мудрости"],
+                "type": "књижевност",
+                "tags": ["симболика", "ликови"],
+                "grade": 2,
+                "correctAnswerMC": "Симбол упорности",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се осећао зец на почетку трке?",
+                "options": ["Превише самоуверено", "Уплашено", "Несигурно", "Мотивисано"],
+                "type": "књижевност",
+                "tags": ["ликови", "емоције"],
+                "grade": 2,
+                "correctAnswerMC": "Превише самоуверено",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта корњачина победа показује?",
+                "options": ["Упорност и труд су важнији од природног талента", "Талентовани људи увек побеђују", "Срећа игра кључну улогу", "Нико не може победити зеца"],
+                "type": "књижевност",
+                "tags": ["поука", "морал"],
+                "grade": 2,
+                "correctAnswerMC": "Упорност и труд су важнији од природног талента",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        }
+    ]
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Корњача и зец су се такмичили у брзини.",
+                "type": "књижевност",
+                "tags": ["Корњача и зец", "Езоп"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Зец је био бржи од корњаче, али је изгубио трку.",
+                "type": "књижевност",
+                "tags": ["Зец", "Корњача", "трка"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Корњача је дремала крај пута током трке.",
+                "type": "књижевност",
+                "tags": ["Корњача", "дремање"],
+                "grade": 2,
+                "correctAnswer": false,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Зец је био толико сигуран у своју победу да је легао да спава.",
+                "type": "књижевност",
+                "tags": ["Зец", "самопоуздање"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Корњача је победила захваљујући својој упорности.",
+                "type": "књижевност",
+                "tags": ["Корњача", "упорност", "победа"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Зец је изгубио трку јер је одустао пре краја.",
+                "type": "књижевност",
+                "tags": ["Зец", "пораз"],
+                "grade": 2,
+                "correctAnswer": false,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Езоп је познат по писању басни.",
+                "type": "књижевност",
+                "tags": ["Езоп", "басне"],
+                "grade": 2,
+                "correctAnswer": true,
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        }
+    ]
+    

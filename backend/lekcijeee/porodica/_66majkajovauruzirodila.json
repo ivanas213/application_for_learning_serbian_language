@@ -1,0 +1,131 @@
+{
+    "title": "МАЈКА ЈОВА У РУЖИ РОДИЛА\n (народна песма)",
+    "description": "",
+    "topic":"66e20ac420291b131b917d84",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Мајка Јова у ружи родила,<br>ружица га на лист дочекала,<br>бела вила у свилу повила,<br>а пчелица медом задојила,<br>ластавица крилом покривала:<br>нек је румен ко ружа румена,<br>нек је бијел ко бијела вила,<br>нек је радин ко пчела малена,<br>нек је хитар као ластавица.<br><br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                   
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://youtu.be/4A3KQ4Be_II?si=z4AIf0UnAnpEYEGs",
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"- <font color='#42f545'>вила</font> – лепа девојка из маште која има крила и која је увек млада<br>- <font color='#42f545'>задојити</font> – нахранити<br>- <font color='#42f545'>бијел</font> – бео<br>- <font color='#42f545'>радин</font> – радан, вредан<br>- <font color='#42f545'>хитар</font> – брз<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "За народне песме тачно знамо ко их је написао.",
+                "type":"књижевност",
+                "tags":["народне песме"],
+                "grade": 2,
+                "correctAnswer":false,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Вук Караџић је скупњао народне песме.",
+                "type":"књижевност",
+                "tags":["народне песме"],
+                "grade": 2,
+                "correctAnswer":true,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Наодне песме су давно настале.",
+                "type":"књижевност",
+                "tags":["народне песме"],
+                "grade": 2,
+                "correctAnswer":true,
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта знаћи рећ хитар?",
+                "options": ["спор", "брз","хитан","умерен"],
+                "type":"књижевност",
+                "tags":["непознате речи"],
+                "grade": 2,
+                "correctAnswerMC": "брз",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Чиме је пчелица задојила Јова у песми \nМајка Јова у Ружи родила\n?",
+                "options": ["млеком", "медом","водом","нектаром"],
+                "type":"књижевност",
+                "tags":["Мајка Јова у Ружи родила"],
+                "grade": 2,
+                "correctAnswerMC": "брз",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које створење је повило Јова у свилу у песми \nМајка Јова у Ружи родила\n?",
+                "options": ["ластавица", "вила","пчела","ружа"],
+                "type":"књижевност",
+                "tags":["Мајка Јова у Ружи родила"],
+                "grade": 2,
+                "correctAnswerMC": "вила",
+                "topic": "66e20ac420291b131b917d84"
+            }
+        }
+    ]

@@ -1,0 +1,176 @@
+{
+    "title": "Цвет\n (Бранко Миљковић)",
+    "description": "",
+    "topic":"66eda597dec7c96b57da962b",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Један малени цвет<br>још ни проговорио није<br>А већ зна све тајне сунца<br>И све што земља крије.</p><p>Један малени цвет<br>Још није ни проходао<br>А већ је умео сам да се храни<br>Светлошћу ваздухом и водом.</p><p>Један малени цвет<br>Не зна да чита и пише<br>Ал зна шта је живот, шта је свет<br>И мирише, мирише.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/yhLUnaXzcts?si=mPVriihwEMAQ417K" 
+            }
+        }
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта цвет већ зна, а још није проговорио у песми 'Цвет'?",
+                "options": [
+                    "Тајне сунца и земље",
+                    "Како да чита и пише",
+                    "Како да хода",
+                    "Како да разговара са људима"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "тајне"],
+                "grade": 2,
+                "correctAnswerMC": "Тајне сунца и земље",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта цвет не зна, али ипак разуме у песми 'Цвет'?",
+                "options": [
+                    "Читање и писање",
+                    "Како да лети",
+                    "Како да разговара са животињама",
+                    "Како да плеше"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "знање"],
+                "grade": 2,
+                "correctAnswerMC": "Читање и писање",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је главна особина цвета у песми 'Цвет'?",
+                "options": [
+                    "Свест о животу и свету",
+                    "Способност да лети",
+                    "Вештина сликања",
+                    "Љубав према музици"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "особина"],
+                "grade": 2,
+                "correctAnswerMC": "Свест о животу и свету",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта цвет може без да је проходао у песми 'Цвет'?",
+                "options": [
+                    "Да се храни сам",
+                    "Да говори",
+                    "Да свира инструмент",
+                    "Да лети до неба"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "способности"],
+                "grade": 2,
+                "correctAnswerMC": "Да се храни сам",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које су три ствари које цвет користи за храњење у песми 'Цвет'?",
+                "options": [
+                    "Светлост, ваздух и вода",
+                    "Земља, сунце и киша",
+                    "Ваздух, земља и снег",
+                    "Сунце, месец и звезде"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "храњење"],
+                "grade": 2,
+                "correctAnswerMC": "Светлост, ваздух и вода",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које способности цвет још није савладао у песми 'Цвет'?",
+                "options": [
+                    "Читање и писање",
+                    "Расте сам",
+                    "Препознаје звуке",
+                    "Разуме говор животиња"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "способности"],
+                "grade": 2,
+                "correctAnswerMC": "Читање и писање",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је симболика мириса цвета у песми 'Цвет'?",
+                "options": [
+                    "Представља знање и искуство",
+                    "Означава пролазност живота",
+                    "Симболизује страх",
+                    "Означава боју"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "симболика"],
+                "grade": 2,
+                "correctAnswerMC": "Представља знање и искуство",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је цвет у песми 'Цвет' описан као мали?",
+                "options": [
+                    "Јер тек почиње живот",
+                    "Јер је то најмањи цвет у свету",
+                    "Јер не може да говори",
+                    "Јер нема боју"
+                ],
+                "type": "књижевност",
+                "tags": ["цвет", "опис"],
+                "grade": 2,
+                "correctAnswerMC": "Јер тек почиње живот",
+                "topic": "66eda597dec7c96b57da962b"
+            }
+        }
+    ]
+    

@@ -1,0 +1,128 @@
+{
+    "title": "Писање скраћеница",
+    "description": "",
+    "topic":"66d96dbc0458148b639f8820",
+    "type":"лекција",
+    "contentBlocks": [
+        
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<b>Скраћенице</b> су скраћени делови појединих речи или групе речи. При читању се изговарају као да нису скраћене.<br>Неке скраћенице се састоје из једног слова, а неке из два или више слова. Неке cy без тачке, а неке са тачком. Неке пишемо малим почетним словом, а неке пишемо великим почетним словом.<br>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Скраћенице за мерне јединице:<br><br>метар - м или м (м.)<br>дециметар - dm или дм (дм.)<br>центиметар - cm или цм (цм.)<br>Скраћенице за мерне јединице се пишу малим латиничким словом без тачке или малим ћириличким словом без тачке и са тачком.<br>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Скраћенице с тачком:<br>број - бр.<br><br>страница — стр. <br>и тако даље итд. <br>на пример - нпр.<br><br>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Скраћеница са великим почетним словима:<br><br>ОШ-основна школа<br>Школско такмичење је одржано у ОШ „Иво Андрић“.<br><br>",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Скраћенице се изговарају онако како су написане.",
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswer":false
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Свака скраћеница има тачку.",
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswer":false
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Ако се скраћенице за мерне јединице пишу латиничним словом пишу се без тачке.",
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswer":true
+            }
+        },{
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Све скраћенице се пишу малим словима.",
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswer":false
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Која од следећих скраћеница је написана исправно?",
+                "options":["бр.", "стр","нпр","итд"],
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswerMC":"бр."
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Пронађи НЕИСПРАВНО написану скраћеницу.",
+                "options":["цм.", "цм","cm","cm."],
+                "type":"правопис",
+                "tags":["скраћенице"],
+                "grade":2,
+                "correctAnswerMC":"cm."
+            }
+        }
+    ]}

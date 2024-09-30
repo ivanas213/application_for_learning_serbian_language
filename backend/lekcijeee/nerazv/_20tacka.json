@@ -1,0 +1,110 @@
+{
+    "title": "Тачка",
+    "description": "",
+    "topic":"66d96dbc0458148b639f8820",
+    "type":"лекција",
+    "contentBlocks": [
+        
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ТАЧКА",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Дилема је тешка ђачка<br>На ком месту стоји тачка.<br>Обавештајну реченицу,<br>кратку или дугачку,<br>препознаћеш по томе,<br>што на крају има тачку.<br>Треба да знају и сви<br>наши ученици вредни<br>како тачка основни број<br>претвара у број редни.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Д. Ивановић",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": true
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"ЈЕСЕН У ПАРКУ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":" Захладнело је<b>.</b> Осећа се долазак ране јесени<b>.</b><br>    По небу се вуку тмурни облаци<b>.</b> Листопадно дрвеће остаје без својеодеће<b>.</b> Увело лишће жути и опада<b>.</b> Ветар га разноси на све стране.Вредни радници неуморно раде у парку<b>.</b> Сакупљају опало лишће и секу сувожбуње и грање<b>.</b><br>    Ето, то је јесен у парку<b>.</b><br>Свака од ових реченица се завршава <b>тачком</b><br><br>Тачка се увек пише на крају обавештајне реченице. Ако се текст наставља, иза тачке следи велико почетно слово.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<br>3 <font color='#FF6347'>&rarr;</font> три<br>3.<font color='#FF6347'>&rarr;</font> трећи<br>8 <font color='#FF6347'>&rarr;</font> осам<br>8.<font color='#FF6347'>&rarr;</font> осми<br>10 <font color='#FF6347'>&rarr;</font> десет<br>10.<font color='#FF6347'>&rarr;</font> десети<br><br>Тачка се пише иза арапских бројева кад значе редне бројеве.",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Ако се текст након тачке наставља, он почиње малим словом.",
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswer": false
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"spelling_correction",
+                "question":"Исправи правописне грешке.",
+                "type":"правопис",
+                "tags":["велико слово","тачка"],
+                "grade":2,
+                "incorrectSpelling":"рибар пеца рибу удицу забацује далеко у воду стрпљиво чека да риба загризе са њим је и његов пас.",
+                "correctedSpelling":"Рибар пеца рибу. Удицу забацује далеко у воду. Стрпљиво чека да риба загризе. Са њим је и његов пас."
+            }
+        }
+    ]}

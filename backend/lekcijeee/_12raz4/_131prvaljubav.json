@@ -1,0 +1,344 @@
+{
+    "title": "Prva ljubav\n(odlomak)\n (Miroslav Antić)",
+    "description": "",
+    "topic":"66eda597dec7c96b57da962b",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Ne pitaj zato otkud odjednom ko&scaron;ava bri&scaron;e.<br>To možda i nije vetar.<br>To prva ljubav uzdi&scaron;e.</p><p><br>Ne pitaj otkuda ki&scaron;e odjednom pljusnu jače.<br>To možda i nije pljusak,<br>već neko zbog ljubavi plače<br>i trepavice mu slane<br>i rukavi mu slani<br>kao presoljen ručak<br>i kao okeani.</p><p><br>Uostalom,<br>&scaron;ta vredi o prvoj ljubavi i dalje da se soli.<br>Izvoli,<br>sam zavoli,<br>pa ako je i tebi isto ovako - ti kaži,<br>a ako nije isto - onda sve ovo ne važi.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+    
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#34cfeb'>Ljubavna pesma</font> je vrsta lirske pesme koja opisuje ljubav prema voljenoj osobi.",                    
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                },
+                "position": 1
+            }
+        }
+    ]}
+    [
+       
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је Ковиљка била посебно пажљива према Винкином сину у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Зато што је био сироче",
+                    "Зато што је био најстарији",
+                    "Зато што је био најмлађи",
+                    "Зато што је био болестан"
+                ],
+                "type": "књижевност",
+                "tags": ["тема", "породични односи"],
+                "grade": 2,
+                "correctAnswerMC": "Зато што је био сироче",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се Винка опростила од своје јетрве Ковиљке у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Тражила је да пази њеног сина",
+                    "Поклонила јој преслицу",
+                    "Замолила је да пази кућу",
+                    "Поклонила јој накит"
+                ],
+                "type": "књижевност",
+                "tags": ["опроштај", "тема"],
+                "grade": 2,
+                "correctAnswerMC": "Тражила је да пази њеног сина",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се звао Винкин син у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Мирко",
+                    "Маринко",
+                    "Видоје",
+                    "Владо"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "родитељство"],
+                "grade": 2,
+                "correctAnswerMC": "Мирко",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како Ковиљка назива Винкиног сина Мирка у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Чедо",
+                    "Мали",
+                    "Дете"
+                ],
+                "type": "књижевност",
+                "tags": ["породични односи", "брига"],
+                "grade": 2,
+                "correctAnswerMC": "Чедо",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је Ковиљка дала Мирку када су ишли у цркву у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Да га води за руку",
+                    "Црвени шал",
+                    "Златан крст"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи", "породична љубав"],
+                "grade": 2,
+                "correctAnswerMC": "Да га води за руку",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које обележје има Мирко у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Он је сироче",
+                    "Он је краљевић",
+                    "Он је пастир",
+                    "Он је витез"
+                ],
+                "type": "књижевност",
+                "tags": ["тема", "описи ликова"],
+                "grade": 2,
+                "correctAnswerMC": "Он је сироче",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који празник се спомиње у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Васкрс",
+                    "Божић",
+                    "Свети Сава",
+                    "Петровдан"
+                ],
+                "type": "књижевност",
+                "tags": ["традиција", "празници"],
+                "grade": 2,
+                "correctAnswerMC": "Васкрс",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је записао песму „Јетрвица адамско колено\"?",
+                "options": [
+                    "Вук Стефановић Караџић",
+                    "Бранко Радичевић",
+                    "Јован Јовановић Змај",
+                    "Лаза Костић"
+                ],
+                "type": "књижевност",
+                "tags": ["ауторство", "историја"],
+                "grade": 2,
+                "correctAnswerMC": "Вук Стефановић Караџић",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је био главни мотив Ковиљкиног понашања према Мирку у песми „Јетрвица адамско колено\"?",
+                "options": [
+                    "Саосећање и љубав према сирочету",
+                    "Страх од казне",
+                    "Радозналост",
+                    "Себица"
+                ],
+                "type": "књижевност",
+                "tags": ["мотиви", "породичне вредности"],
+                "grade": 2,
+                "correctAnswerMC": "Саосећање и љубав према сирочету",
+                "topic": "66e32bab9d4bbcb4974d5a24"
+            }
+        }
+    ]
+    [
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Šta pesnik kaže da prva ljubav izaziva u pesmi „Prva ljubav”?",
+            "options": [
+                "Kišu",
+                "Plamen",
+                "Sneg",
+                "Sunce"
+            ],
+            "type": "književnost",
+            "tags": ["emocije", "efekti"],
+            "grade": 2,
+            "correctAnswerMC": "Kišu",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Kako pesnik opisuje suze u pesmi „Prva ljubav”?",
+            "options": [
+                "Kao presoljen ručak",
+                "Kao hladna voda",
+                "Kao zvezde",
+                "Kao med"
+            ],
+            "type": "književnost",
+            "tags": ["opis", "emocije"],
+            "grade": 2,
+            "correctAnswerMC": "Kao presoljen ručak",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Šta pesnik predlaže onome ko sluša pesmu „Prva ljubav”?",
+            "options": [
+                "Da sam voli i proveri osećanja",
+                "Da zaboravi na ljubav",
+                "Da traži sreću u prijateljstvu",
+                "Da piše pesme"
+            ],
+            "type": "književnost",
+            "tags": ["tema", "predlog"],
+            "grade": 2,
+            "correctAnswerMC": "Da sam voli i proveri osećanja",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Koji prirodni fenomen pesnik koristi kao metaforu za ljubav u pesmi „Prva ljubav”?",
+            "options": [
+                "Kiša",
+                "Sunce",
+                "Sneg",
+                "Magla"
+            ],
+            "type": "književnost",
+            "tags": ["metafora", "priroda"],
+            "grade": 2,
+            "correctAnswerMC": "Kiša",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Kako pesnik vidi efekat prve ljubavi na život u pesmi „Prva ljubav”?",
+            "options": [
+                "Kao nešto što menja sve",
+                "Kao prolaznu fazu",
+                "Kao nešto nevažno",
+                "Kao radostan događaj"
+            ],
+            "type": "književnost",
+            "tags": ["uticaj", "osećanja"],
+            "grade": 2,
+            "correctAnswerMC": "Kao nešto što menja sve",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Koji stil pesnik koristi da bi izrazio osećanja u pesmi „Prva ljubav”?",
+            "options": [
+                "Jednostavan i iskren",
+                "Složen i filozofski",
+                "Šaljiv i humorističan",
+                "Formalno i ozbiljno"
+            ],
+            "type": "književnost",
+            "tags": ["stil", "izražavanje"],
+            "grade": 2,
+            "correctAnswerMC": "Jednostavan i iskren",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Kako pesnik opisuje osećanje ljubavi u pesmi „Prva ljubav”?",
+            "options": [
+                "Kao nešto što se mora doživeti da bi se razumelo",
+                "Kao nešto što je uvek srećno",
+                "Kao nešto što je beznačajno",
+                "Kao nešto što se može objasniti rečima"
+            ],
+            "type": "književnost",
+            "tags": ["osećanja", "tema"],
+            "grade": 2,
+            "correctAnswerMC": "Kao nešto što se mora doživeti da bi se razumelo",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    },
+    {
+        "type": "question",
+        "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Kako pesnik doživljava prvu ljubav u pesmi „Prva ljubav”?",
+            "options": [
+                "Kao nešto bolno ali važno",
+                "Kao potpuno nebitno",
+                "Kao najlepši trenutak u životu",
+                "Kao beskrajno srećan događaj"
+            ],
+            "type": "književnost",
+            "tags": ["doživljaj", "osećanja"],
+            "grade": 2,
+            "correctAnswerMC": "Kao nešto bolno ali važno",
+            "topic": "66eda597dec7c96b57da962b"
+        }
+    }
+]

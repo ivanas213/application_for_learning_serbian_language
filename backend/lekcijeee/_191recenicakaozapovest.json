@@ -1,0 +1,104 @@
+{
+    "title": "Реченица као заповест",
+    "description": "",
+    "topic":"66eed0e9dec7c96b57daaa9b",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Врати ми моју гумицу<font color='#ff0000'>!</font><br> Седи и ћути<font color='#ff0000'>!</font><br>Склони се<font color='#ff0000'>!</font><br>Милице, крени у школу<font color='#ff0000'>!</font><br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#34cfeb'>Реченице</font> којима се нешто заоведа или забрањује називају се <font color='#34cfeb'>заповедне реченице</font>. На крају заповедних реченица пише се знак узвика. Знак узвика другачије називамо узвичник.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+    ]}
+    {
+        "type": "question",
+        "questionBlock": {
+          "questionType": "true_false",
+          "question": "На крају заповедне реченице обавезно стоји тачка.",
+          "type": "граматика",
+          "tags": [],
+          "grade": 1,
+          "correctAnswer": false
+        }
+      },{
+        "type": "question",
+        "questionBlock": {
+          "questionType": "spelling_correction",
+          "question": "Исправи грешке ако их има.",
+          "type": "граматика",
+          "tags": [],
+          "incorrectSpelling":"поједи супу!",
+          "correctedSpelling":"Поједи супу!",
+          "grade": 1
+        }
+      },{
+        "type": "question",
+        "questionBlock": {
+          "questionType": "multiple_choice",
+          "question": "Који знак стоји на крају сваке заповедне реченице?",
+          "options": [
+            ".",
+            "?",
+            "*",
+            "!"
+          ],
+          "type": "граматика",
+          "tags": [],
+          "grade": 1,
+          "correctAnswerMC": "!",
+          "topic": "66eeba92dec7c96b57daa792"
+        }
+      },{
+        "type": "question",
+        "questionBlock": {
+          "questionType": "spelling_correction",
+          "question": "Исправи грешке ако их има.",
+          "type": "граматика",
+          "tags": [],
+          "incorrectSpelling":"помери се!",
+          "correctedSpelling":"Помери се!",
+          "grade": 1
+        }
+      },{
+        "type": "question",
+        "questionBlock": {
+          "questionType": "spelling_correction",
+          "question": "Исправи грешке ако их има.",
+          "type": "граматика",
+          "tags": [],
+          "incorrectSpelling":"Крени у школу.",
+          "correctedSpelling":"Крени у школу!",
+          "grade": 1
+        }
+      }

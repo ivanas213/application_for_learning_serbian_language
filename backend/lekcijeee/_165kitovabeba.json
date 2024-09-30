@@ -1,0 +1,147 @@
+{
+    "title": "Китова беба\n (Гвидо Тартаља)",
+    "description": "",
+    "topic":"66ee1d24dec7c96b57daa3e1",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Мајка чеду тепа:<br>&bdquo;Слатки, мали сине\",<br>а он има девет<br>метара дужине.<br><br>Још му она тепа:<br>&bdquo;Бебо моја мила\",<br>а та беба има<br>две хиљаде кила.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/H2Tpi4ull3w?si=5gsYQ9-HK7ZwlIQr" 
+        }},
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>тепати</font> – нежно говорити некоме, надевати речи одмила",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+    ]}
+    [
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "О коме се говори у песми \"Китова беба\"?",
+            "options": [
+              "О киту",
+              "О риби",
+              "О слону"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "животиње"],
+            "grade": 1,
+            "correctAnswerMC": "О киту",
+            "topic": "66ee1d24dec7c96b57daa3e1"
+          }
+        },
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Шта мајка тепа китовој беби у песми \"Китова беба\"?",
+            "options": [
+              "Слатки мали сине",
+              "Слатки велики сине"
+            ],
+            "type": "књижевност",
+            "tags": ["мајка", "тепање"],
+            "grade": 1,
+            "correctAnswerMC": "Слатки мали сине",
+            "topic": "66ee1d24dec7c96b57daa3e1"
+          }
+        },
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Како мајка зове свог сина у песми \"Китова беба\"?",
+            "options": [
+              "Мали",
+              "Велики",
+              "Мали кит",
+              "Китић"
+            ],
+            "type": "књижевност",
+            "tags": ["ликови", "тепање"],
+            "grade": 1,
+            "correctAnswerMC": "Мали",
+            "topic": "66ee1d24dec7c96b57daa3e1"
+          }
+        },
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Која реч значи 'нежно говорити некоме'? ",
+            "options": [
+              "Тепати",
+              "Певати",
+              "Шаптати",
+              "Плакати"
+            ],
+            "type": "књижевност",
+            "tags": ["речи", "значење"],
+            "grade": 1,
+            "correctAnswerMC": "Тепати",
+            "topic": "66ee1d24dec7c96b57daa3e1"
+          }
+        },
+        
+        {
+          "type": "question",
+          "questionBlock": {
+            "questionType": "multiple_choice",
+            "question": "Колико је дуга китова беба у песми \"Китова беба\"?",
+            "options": [
+              "Два метра",
+              "Девет метара",
+              "Три метра",
+              "Један метар"
+            ],
+            "type": "књижевност",
+            "tags": ["дужина", "животиње"],
+            "grade": 1,
+            "correctAnswerMC": "Девет метара",
+            "topic": "66ee1d24dec7c96b57daa3e1"
+          }
+        }
+      ]
+      

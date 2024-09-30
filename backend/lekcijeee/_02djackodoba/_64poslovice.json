@@ -1,0 +1,92 @@
+{
+    "title": "ПОСЛОВИЦЕ",
+    "description": "",
+    "topic":"66e20abb20291b131b917d82",
+    "type":"лекција",
+    "contentBlocks": [
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<br><font color='#42f5e3'>Пословица</font> је мудра истина исказана у једној реченици.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Примери пословица:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f5e3",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"-Пријатељ се у невољи познаје.<br>-Гледај напред, али се осврни и назад.<br>-Ко ради, не боји се глади.<br>-Добар глас далеко се чује, а зао још даље.<br>-У лажи су кратке ноге.<br>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        }
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је пословица?",
+                "options": ["шала која се често користи","мудра истина исказана у једној реченици","нешто штп је научно доказано","песма са дубоким значењем"],
+                "type":"књижевност",
+                "tags":["народне умотворине","пословице"],
+                "grade": 2,
+                "correctAnswerMC": "мудра истина исказана у једној реченици",
+                "topic": "66e20abb20291b131b917d82"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која од следећих реченица је пословица?",
+                "options": ["Ако је облачан дан падаће киша.","Време је за забаву!","Мама прави торту.","Пријатељ се у невољи познаје."],
+                "type":"књижевност",
+                "tags":["народне умотворине","пословице"],
+                "grade": 2,
+                "correctAnswerMC": "Пријатељ се у невољи познаје.",
+                "topic": "66e20abb20291b131b917d82"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која пословица говори о важности напорног рада?",
+                "options": ["Гледај напред, али се осврни и назад.","Добар глас далеко се чује, а зао још даље.","Ко ради, не боји се глади.","Пријатељ се у невољи познаје."],
+                "type":"књижевност",
+                "tags":["народне умотворине","пословице"],
+                "grade": 2,
+                "correctAnswerMC": "Ко ради, не боји се глади.",
+                "topic": "66e20abb20291b131b917d82"
+            }
+        }
+    ]

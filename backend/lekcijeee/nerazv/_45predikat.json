@@ -1,0 +1,154 @@
+{
+    "title": "Предикат",
+    "description": "",
+    "topic":"66dc88fa3208a52c58164e8b",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#4A90E2'>Мира</font> <font color='#F5A623'>чита</font>.<br> <font color='#4A90E2'>Бака</font> <font color='#F5A623'>спава</font>.<br> <font color='#4A90E2'>Ветар</font> <font color='#F5A623'>дува</font>.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"center"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Речи: читати, спавати и дувати су глаголи.<br>У наведеним реченицама глаголи су у служби предиката.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<strong>Предикатом</strong> се у реченици казује радња коју неко врши, у каквом је неко&nbsp;(или нешто) стању и шта се дешава (збива). Предикат нам саопштава шта&nbsp;ради вршилац радње (субјекат). Проналазимо га одговором на питање&nbsp;ШТА?. Службу предиката у реченици имају глаголи.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#83d2e6",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<strong>Предикат</strong> који је сачињен само од глагола назива се <strong>глаголски </strong><strong>предикат</strong>. Глаголски предикат се састоји од глагола у личном глаголском&nbsp;облику који се&nbsp; слаже са субјектом у лицу, броју и роду.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#83d2e6",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ја <strong>певам</strong>.<br>Он <strong>је певао</strong>.<br>Ми <strong>ћемо певати</strong>.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Ако у реченици службу предиката врши глагол у прошлом и будућем&nbsp;времену, он се састоји од две речи. У реченици могу да буду и неке&nbsp;друге речи које се налазе између делова предиката.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је предикат у реченици 'Лука иде на такмичење из математике.'?",
+                "options": ["Лука", "иде", "такмичење", "математика"],
+                "type": "граматика",
+                "tags": ["предикат"],
+                "grade": 4,
+                "correctAnswerMC": "иде",
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је предикат у реченици \"Марко је тренирао кошарку\"'?",
+                "options": ["Марко", "је ", "тренирао", "кошарку","Марко је","је тренирао"],
+                "type": "граматика",
+                "tags": ["предикат"],
+                "grade": 4,
+                "correctAnswerMC": "је тренирао",
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је предикат у реченици 'Лука иде на такмичење из математике.'?",
+                "options": ["Лука", "иде", "такмичење", "математика"],
+                "type": "граматика",
+                "tags": ["предикат"],
+                "grade": 4,
+                "correctAnswerMC": "иде",
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Предикат одговара на питање \"Ко?\".",
+                "type": "граматика",
+                "tags": ["предикат"],
+                "grade": 4,
+                "correctAnswer": false,
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        }
+        ,
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Предикат не може да има више од једне речи.",
+                "type": "граматика",
+                "tags": ["предикат"],
+                "grade": 4,
+                "correctAnswer": false,
+                "topic": "66dc88fa3208a52c58164e8b"
+            }
+        }
+      ]
+      

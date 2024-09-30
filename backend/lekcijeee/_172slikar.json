@@ -1,0 +1,178 @@
+{
+    "title": "Сликар\n (Бранислав Лазаревић)",
+    "description": "",
+    "topic":"66eeb052dec7c96b57daa5da",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>За ту твоју лепу смишљеност ја морам<br>свуда да те хвалим,<br>друкчије<br>не могу:<br>јер нацртао си ме како јашем коња,<br>али коња,<br>друже,<br>са дванаест ногу!</p><p><br>Шта више и мој си шешир нацртао,<br>то може да види<br>чак и које<br>слеп -<br>ал' само не могу никако да схватим<br>зашто си га коњу -<br>ставио на реп.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/_bQavuSSLjw?si=IuD8EXDvhpAv3gbD"
+            }
+        }
+        
+        
+        
+    ]}
+    [
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како је сликар нацртао главног јунака у песми „Сликар“?",
+                "options": [
+                    "Како плива",
+                    "Како јаше коња",
+                    "Како лети",
+                    "Како вози бицикл"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи из песме", "главни јунак"],
+                "grade": 1,
+                "correctAnswerMC": "Како јаше коња",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Колико ногу има коњ у песми „Сликар“?",
+                "options": [
+                    "Четири",
+                    "Десет",
+                    "Дванаест",
+                    "Шест"
+                ],
+                "type": "књижевност",
+                "tags": ["коњ", "детаљи из песме"],
+                "grade": 1,
+                "correctAnswerMC": "Дванаест",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто главни јунак једино никако не може да схвати у песми „Сликар“?",
+                "options": [
+                    "Зашто је сликар нацртао коња са четири ноге",
+                    "Зашто је сликар нацртао шешир на репу коња",
+                    "Зашто је сликар заборавио да нацрта главу",
+                    "Зашто је коњ зелен"
+                ],
+                "type": "књижевност",
+                "tags": ["разумевање", "детаљи из песме"],
+                "grade": 1,
+                "correctAnswerMC": "Зашто је сликар нацртао шешир на репу коња",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је једна од чудних ствари на слици у песми „Сликар“?",
+                "options": [
+                    "Сунце са три зрака",
+                    "Коњ са дванаест ногу",
+                    "Пас са крилима",
+                    "Мачка са две главе"
+                ],
+                "type": "књижевност",
+                "tags": ["уметност", "детаљи из песме"],
+                "grade": 1,
+                "correctAnswerMC": "Коњ са дванаест ногу",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта главни јунак мисли о цртежу у песми „Сликар“?",
+                "options": [
+                    "Да је тачан",
+                    "Да је смешан",
+                    "Да је леп",
+                    "Да је тужан"
+                ],
+                "type": "књижевност",
+                "tags": ["мишљење", "детаљи из песме"],
+                "grade": 1,
+                "correctAnswerMC": "Да је смешан",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који предмет се помиње у песми „Сликар“?",
+                "options": [
+                    "Шешир",
+                    "Кишобран",
+                    "Торта",
+                    "Јастук"
+                ],
+                "type": "књижевност",
+                "tags": ["предмети", "детаљи из песме"],
+                "grade": 1,
+                "correctAnswerMC": "Шешир",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи да је шешир стављен на реп у песми „Сликар“?",
+                "options": [
+                    "Да сликар зна добро да црта",
+                    "Да сликар воли коње",
+                    "Да сликар црта смешне ствари",
+                    "Да сликар мрзи шешире"
+                ],
+                "type": "књижевност",
+                "tags": ["детаљи", "значење"],
+                "grade": 1,
+                "correctAnswerMC": "Да сликар црта смешне ствари",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко је у песми „Сликар“ нацртао слику?",
+                "options": [
+                    "Главни јунак",
+                    "Сликар",
+                    "Учитељ",
+                    "Дете"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "радња"],
+                "grade": 1,
+                "correctAnswerMC": "Сликар",
+                "topic": "66eeb052dec7c96b57daa5da"
+            }
+        }
+    ]
+    

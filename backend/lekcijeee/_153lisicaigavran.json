@@ -1,0 +1,202 @@
+{
+    "title": "Лисица и гавран\n (народна басна)",
+    "description": "",
+    "topic":"66edf861dec7c96b57da9db6",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Гавран је негде нашао повећи комад сира и,&nbsp;стојећи на грани дрвета, држао је чврсто сир у кљуну.<br>Лисица то опази и пошто се привукла дрвету,&nbsp;поче да хвали гаврана.<br>- Ти си веома лепа птица - рече она - и имаш&nbsp;прекрасно перје! Нико на свету не би био тако савршен&nbsp;као ти, само кад би умео да певаш!<br>Гаврану се није свидело да поред толике своје&nbsp;лепоте има и неки недостатак. Да би уверио лисицу&nbsp;да уме и да пева, он отвори кљун и загракта.<br>Сир му испаде из кљуна, лисица зграби плен и&nbsp;побеже.<br>- Е, мој гавране - мислила је она - имаш ти и сјај и<br>гласа, али немаш памети.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/Kgif-NMcIns?si=K1bT9wrqgNWwuxNn" 
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#34cfeb'>Народне басне</font> су настале давно. Народ их је усмено преносио.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>заграктати</font> – оглашавање гаврана",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је гавран држао у кљуну у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Комад хлеба",
+                    "Комад меса",
+                    "Комад сира",
+                    "Јабуку"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "радња"],
+                "grade": 1,
+                "correctAnswerMC": "Комад сира",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је лисица похвалила гаврана у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Да му се захвали",
+                    "Да га насмеје",
+                    "Да би му украла сир",
+                    "Да га уплаши"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "радња"],
+                "grade": 1,
+                "correctAnswerMC": "Да би му украла сир",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+      
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је лисица урадила када је гавран испустио сир у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Појела је сир",
+                    "Побегла је са сиром",
+                    "Бацила сир",
+                    "Оставила сир гаврану"
+                ],
+                "type": "књижевност",
+                "tags": ["радња", "поука"],
+                "grade": 1,
+                "correctAnswerMC": "Побегла је са сиром",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је поука басне \"Лисица и гавран\"?",
+                "options": [
+                    "Не треба веровати ласкавцима",
+                    "Вежбање чини савршенство",
+                    "Пријатељство је најважније",
+                    "Не треба красти"
+                ],
+                "type": "књижевност",
+                "tags": ["поука", "морал"],
+                "grade": 1,
+                "correctAnswerMC": "Не треба веровати ласкавцима",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се осећао гавран након што је изгубио сир у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Задовољно",
+                    "Тужно",
+                    "Љуто",
+                    "Збуњено"
+                ],
+                "type": "књижевност",
+                "tags": ["осећања", "поука"],
+                "grade": 1,
+                "correctAnswerMC": "Тужно",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је гавран желео да докаже лисици у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Да зна певати",
+                    "Да је јак",
+                    "Да је брз",
+                    "Да има оштар кљун"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "жеље"],
+                "grade": 1,
+                "correctAnswerMC": "Да зна певати",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како је лисица показала да је паметнија од гаврана у басни \"Лисица и гавран\"?",
+                "options": [
+                    "Хвалила га је и тако добила сир",
+                    "Побегла је пре него што је гавран дошао",
+                    "Напала је гаврана",
+                    "Понудила гаврану другу храну"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "мудрост"],
+                "grade": 1,
+                "correctAnswerMC": "Хвалила га је и тако добила сир",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        }
+    ]
+    

@@ -1,0 +1,251 @@
+{
+    "title": "Голуб и пчела\n (народна прича)",
+    "description": "",
+    "topic":"66edf861dec7c96b57da9db6",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Дође пчела на поток да се напије водице. Пијући паде у воду и стаде да се бори с таласима, који хтедоше да је утопе. То спази голуб с гране па уздахну:</p><p>&bdquo;Јаднице, како се мучиш!&ldquo;</p><p>То рече, одлете на најближу грану, откиде лист и пусти га у воду говорећи:</p><p>&bdquo;Ево ти чунчића па се избави!&ldquo;</p><p>Пчелица се попе на листак. Кад јој се осуше крилца, оде својима у шуму.</p><p>Другог дана дође голуб у шуму. Ту га спази ловац па диже пушку и стаде да нишани. Али, то опази пчелица, па уздахну:</p><p>&bdquo;Сад је час да спасем свог добротвора!&ldquo;</p><p>То рече па као муња паде ловцу на руку. Ловцу задрхта рука, испусти пушку. А гоклуб одлете.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/yXDaDspLfl8?si=weGGHdojKP3GE83m" 
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#34cfeb'>Ликови</font> у причи су учесници у догађајима приче.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<font color='#34cfeb'>Народне приче</font> су настале давно. Народ их је преносио усмено. Највећи број наших народних прича сакупио је и записао Вук Стефановић Караџић.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>омаћи се</font> – оклизнути се",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта се десило пчели у народној причи 'Голуб и пчела'?",
+                "options": [
+                    "Упала је у воду",
+                    "Изгубила је крила",
+                    "Нашла је цвет",
+                    "Ујела је голуба"
+                ],
+                "type": "књижевност",
+                "tags": ["догађаји", "животиње"],
+                "grade": 1,
+                "correctAnswerMC": "Упала је у воду",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како је голуб помогао пчели у причи 'Голуб и пчела'?",
+                "options": [
+                    "Бацио јој је лист у воду",
+                    "Донео јој цвеће",
+                    "Однео је на сигурно",
+                    "Скрио је у гнездо"
+                ],
+                "type": "књижевност",
+                "tags": ["помоћ", "животиње"],
+                "grade": 1,
+                "correctAnswerMC": "Бацио јој је лист у воду",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је пчела урадила кад је видела да ловац нишани голуба у причи 'Голуб и пчела'?",
+                "options": [
+                    "Ујела је ловца за руку",
+                    "Сакрила се",
+                    "Одлетела је",
+                    "Позвала је друге пчеле"
+                ],
+                "type": "књижевност",
+                "tags": ["догађаји", "помоћ"],
+                "grade": 1,
+                "correctAnswerMC": "Ујела је ловца за руку",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто је голуб спасио пчелу у причи 'Голуб и пчела'?",
+                "options": [
+                    "Јер је видео да се мучи",
+                    "Зато што је тражила помоћ",
+                    "Зато што је био жедан"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "помоћ"],
+                "grade": 1,
+                "correctAnswerMC": "Јер је видео да се мучи",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је ловац радио у причи 'Голуб и пчела'?",
+                "options": [
+                    "Нишанио је голуба",
+                    "Био је пријатељ са голубом",
+                    "Помагао пчели",
+                    "Тражио воду"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "догађаји"],
+                "grade": 1,
+                "correctAnswerMC": "Нишанио је голуба",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Ко су главни ликови у причи 'Голуб и пчела'?",
+                "options": [
+                    "Голуб и пчела",
+                    "Голуб и ловац",
+                    "Пчела и ловац",
+                    "Дрво и вода"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Голуб и пчела",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је голуб рекао пчели када јој је помогао у причи 'Голуб и пчела'?",
+                "options": [
+                    "Ево ти чунчића па се избави!",
+                    "Помози и ти мени!",
+                    "Немој више падати у воду!",
+                    "Брзо, одлетећемо заједно!"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "разговор"],
+                "grade": 1,
+                "correctAnswerMC": "Ево ти чунчића па се избави!",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+      
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је ловац изгубио када га је пчела ујела у причи 'Голуб и пчела'?",
+                "options": [
+                    "Пушку",
+                    "Лук и стрелу",
+                    "Шешир",
+                    "Штап"
+                ],
+                "type": "књижевност",
+                "tags": ["догађаји"],
+                "grade": 1,
+                "correctAnswerMC": "Пушку",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који је био главни разлог што је голуб помогао пчели у причи 'Голуб и пчела'?",
+                "options": [
+                    "Био је добар и желео је да помогне",
+                    "Пчела му је била пријатељ",
+                    "Видео је цвет",
+                    "Ловац му је рекао да помогне"
+                ],
+                "type": "књижевност",
+                "tags": ["карактер", "особине"],
+                "grade": 1,
+                "correctAnswerMC": "Био је добар и желео је да помогне",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        }
+    ]
+    

@@ -1,0 +1,273 @@
+{
+    "title": "Писање речце ЛИ и речце НЕ",
+    "description": "",
+    "topic":"66d96dad0458148b639f881e",
+    "type":"лекција",
+    "contentBlocks": [
+        
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"РЕЧЦА <b>ЛИ</b>.",
+                "style": {
+                    "fontSize": 26,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":" Идеш <b>ли</b> у школу?<br>    Да <b>ли</b> си прочитао књигу?<br>    Јеси <b>ли</b> био у праку?<br>    Певаш <b>ли</b> у хору?<br>    ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<b>Ли</b> је упитна речца.<br> Речца <b>ли</b> се пише одвојено од других речи. ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"РЕЧЦА <b>НЕ</b>.",
+                "style": {
+                    "fontSize": 26,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":" Мира <b>не</b> свира виолину.<br>    Лука <b>не</b> воли да игра кошарку.<br>    Бака <b>не</b> иде у шетњу.<br>    Деда <b>не</b> цепа дрва.<br>    ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<b>Не</b> је одрична речца. Речца <b>не</b> пише се одвојено од глагола. Изузеци су: <b>нећу</b>, <b>немам</b>, <b>немој</b> и <b>нисам</b>. ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":" <b>Нећу</b> ићи на утакмицу.<br>    <b>Немам</b> кошаркашку лопту.<br>  <b>Немој</b> бити тужан.<br>    <b>Нисам</b> љута на тебе.<br>   ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#000000",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content":" Изузетка четири знам: <b>нећу</b>, <b>немој</b>, <b>немам</b> и <b>нисам</b>!   ",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#037bfc",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Речца НЕ се пише спојено са глаголима.",
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswer": false
+            }
+        },
+       {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"true_false",
+                "question":"Речца НЕ се пише спојено са глаголима.",
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswer": false
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["нећу", "не ћу"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"нећу"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["нисам", "ни сам"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"нисам"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["незнам", "не знам"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"не знам"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["немој", "не мој"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"немој"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["немам", "не мам"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"немам"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["не иде", "неиде"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"не иде"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["не свира", "несвира"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"не свира"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["Јесили био у школи?", "Јеси ли био у школи?"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"Јеси ли био у школи?"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери исправан облик.",
+                "options":["Дали си прочитао књигу?", "Да ли си прочитао књигу?"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"Да ли си прочитао књигу?"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери облик који је исправан.",
+                "options":["незнам", "немам","непитам", "нецртам"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"немам"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock":{
+                "questionType":"multiple_choice",
+                "question":"Изабери облик који НИЈЕ исправан.",
+                "options":["не ћу", "не играм","не питам", "не цртам"],
+                "type":"правопис",
+                "tags":["речца не"],
+                "grade":2,
+                "correctAnswerMC":"немам"
+            }
+        }
+    ]}

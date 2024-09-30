@@ -1,0 +1,256 @@
+{
+    "title": "Два јарца\n (Доситеј Обрадовић)",
+    "description": "",
+    "topic":"66edf861dec7c96b57da9db6",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Преко дубоког потока наместили људи брвно. Срела се на брвну два јарца.<br>&ndash; Склони се ! &ndash; викну један.<br>&ndash; Склони се ти, ја нећу! &ndash; рече други.<br>&ndash; Е, да видимо ко ће се склонити! &ndash; рече први и сави рогове спреман за битку. И други се исто тако нарогуши. Грунуше роговима један на другога и оба падоше у воду.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/ato2QvjbMF4?si=pojPtSgXF7Xxcweg" 
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Прича, Два јарца\" је <font color='#34cfeb'>басна</font>. Басне су поучне приче чији су јунаци најчешће животиње. Свака од животиња има неку људску особину. У баснама се животиње понашају и говоре као људи. Поруке басне су корисни савети.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>брвно</font> – стабло дрвета без грана, може да послужи као мост<br> - <font color='#42f545'>нарогушити се</font> – наљутити се<br> - <font color='#42f545'>грунути</font> – јако ударити",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+        
+    ]}
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је био узрок свађе између два јарца у причи 'Два јарца'?",
+                "options": [
+                    "Нису могли да се договоре ко ће први да пређе брвно",
+                    "Били су гладни",
+                    "Хтели су да поделе храну",
+                    "Желели су да се играју"
+                ],
+                "type": "књижевност",
+                "tags": ["радња", "сукоб"],
+                "grade": 1,
+                "correctAnswerMC": "Нису могли да се договоре ко ће први да пређе брвно",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како су јарци реаговали када су се срели на брвну у причи 'Два јарца'?",
+                "options": [
+                    "Покушали су да се договоре",
+                    "Почели су да разговарају",
+                    "Роговима су ударили један другог",
+                    "Обојица су побегли"
+                ],
+                "type": "књижевност",
+                "tags": ["радња", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Роговима су ударили један другог",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта се догодило са јарцима након што су се сударили на брвну у причи 'Два јарца'?",
+                "options": [
+                    "Побегли су",
+                    "Пали су у воду",
+                    "Наставили су да се боре",
+                    "Спријатељили су се"
+                ],
+                "type": "књижевност",
+                "tags": ["радња", "исход"],
+                "grade": 1,
+                "correctAnswerMC": "Пали су у воду",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је брвно?",
+                "options": [
+                    "Стабло дрвета које служи као мост",
+                    "Стеновит прелаз",
+                    "Велика литица",
+                    "Дрвена кућа"
+                ],
+                "type": "књижевност",
+                "tags": ["речник", "описи"],
+                "grade": 1,
+                "correctAnswerMC": "Стабло дрвета које служи као мост",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Која је главна поука приче 'Два јарца'?",
+                "options": [
+                    "Сарадња је важна",
+                    "Борба доноси победу",
+                    "Не треба ићи преко брвна",
+                    "Јарци су најхрабрији"
+                ],
+                "type": "књижевност",
+                "tags": ["порука", "поука"],
+                "grade": 1,
+                "correctAnswerMC": "Сарадња је важна",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како су се јарци осећали када су се срели на брвну у причи 'Два јарца'?",
+                "options": [
+                    "Љутито",
+                    "Срећно",
+                    "Тужно",
+                    "Уплашено"
+                ],
+                "type": "књижевност",
+                "tags": ["емоције", "ликови"],
+                "grade": 1,
+                "correctAnswerMC": "Љутито",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Како се завршила прича 'Два јарца'?",
+                "options": [
+                    "Јарци су се сложили и прошли преко брвна",
+                    "Јарци су пали у воду",
+                    "Јарци су се вратили кући",
+                    "Јарци су се попели на брдо"
+                ],
+                "type": "књижевност",
+                "tags": ["завршетак", "исход"],
+                "grade": 1,
+                "correctAnswerMC": "Јарци су пали у воду",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто су јарци пали у воду у причи 'Два јарца'?",
+                "options": [
+                    "Зато што ниједан није хтео да се склони",
+                    "Зато што су се плашили",
+                    "Зато што су били уморни",
+                    "Зато што су изгубили равнотежу"
+                ],
+                "type": "књижевност",
+                "tags": ["радња", "конфликт"],
+                "grade": 1,
+                "correctAnswerMC": "Зато што ниједан није хтео да се склони",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта значи реч 'нарогушити'",
+                "options": [
+                    "Наљутити се",
+                    "Скочити",
+                    "Загрлити",
+                    "Насмејати се"
+                ],
+                "type": "књижевност",
+                "tags": ["речник", "описи"],
+                "grade": 1,
+                "correctAnswerMC": "Наљутити се",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Које су животиње главни ликови у причи 'Два јарца'?",
+                "options": [
+                    "Јарци",
+                    "Мачке",
+                    "Пси",
+                    "Мишеви"
+                ],
+                "type": "књижевност",
+                "tags": ["ликови", "животиње"],
+                "grade": 1,
+                "correctAnswerMC": "Јарци",
+                "topic": "66edf861dec7c96b57da9db6"
+            }
+        }
+    ]
+    

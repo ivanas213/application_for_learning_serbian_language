@@ -1,0 +1,224 @@
+{
+    "title": "Цртанка\n (Стеван Раичковић)",
+    "description": "",
+    "topic":"66eea97adec7c96b57daa4fa",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Дај ми две-три чисте<br>хартије ал исте</p><p><br>и једну оловку<br>да нацртам пловку.</p><p><br>Дај ми жуту боју<br>да обојим проју</p><p><br>па ћу њоме затим<br>Сунце да позлатим.</p><p><br>И плава ми треба<br>за комадић неба</p><p><br>она ће да дода<br>воду ради брода.</p><p><br>Дај ми после плаве<br>зелену због траве</p><p><br>и због скоро триста<br>на дрвету листа.</p><p>Сад црвену нову<br>због црепа на крову</p><p><br>и због једноглица<br>и због лубеница.</p><p><br>Дај ми боју белу<br>због цвета за пчелу</p><p><br>а и после њега<br>због две грудве снега.</p><p><br>Дај ми боју црну<br>да нацртам срну</p><p><br>да обојим мачку<br>да ударим тачку.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "alignment":"left"
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "video",
+            "videoBlock": {
+                "url":"https://www.youtube.com/embed/jxAFaZcuQyQ?si=qHoELlIT-IdurUej" 
+            }
+        },
+        
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Непознате речи:",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#42f545",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        ,
+        {
+            "type": "text",
+            "textBlock": {
+                "content": "- <font color='#42f545'>пловка</font> – патка<br> - <font color='#42f545'>проја</font> – намирница од кукуруза, кукурузни хлеб<br> - <font color='#42f545'>хартија</font> – лист папира",
+                "style": {
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "bold": false,
+                    "italic": false
+                },
+                "position": 1
+            }
+        }
+        
+        
+        
+    ]}
+    [
+        
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Зашто песник тражи зелену боју у песми \"Цртанка\"?",
+                "options": [
+                    "Због траве",
+                    "Због проје",
+                    "Због воде",
+                    "Због Сунца"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Због траве",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Који предмет песник нацрта црном бојом у песми \"Цртанка\"?",
+                "options": [
+                    "Срну",
+                    "Патку",
+                    "Проју",
+                    "Сунце"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "животиње"],
+                "grade": 1,
+                "correctAnswerMC": "Срну",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Коју боју песник користи за цреп на крову у песми \"Цртанка\"?",
+                "options": [
+                    "Црвену",
+                    "Жуту",
+                    "Плаву",
+                    "Зелену"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Црвену",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта песник нацрта жутом бојом у песми \"Цртанка\"?",
+                "options": [
+                    "Сунце",
+                    "Месец",
+                    "Цвеће",
+                    "Воду"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Сунце",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Коју боју песник тражи за цртање неба у песми \"Цртанка\"?",
+                "options": [
+                    "Плаву",
+                    "Црвену",
+                    "Зелену",
+                    "Белу"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Плаву",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта песник нацрта белом бојом у песми \"Цртанка\"?",
+                "options": [
+                    "Цвет за пчелу",
+                    "Сунце",
+                    "Траву",
+                    "Патку"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Цвет за пчелу",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "За шта песнику треба оловка у песми \"Цртанка\"?",
+                "options": [
+                    "За цртање патке",
+                    "За писање слова",
+                    "За цртање куће",
+                    "За решавање задатака"
+                ],
+                "type": "књижевност",
+                "tags": ["предмети", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "За цртање патке",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта је пловка?",
+                "options": [
+                    "чамац",
+                    "брод",
+                    "патка",
+                    "птица"
+                ],
+                "type": "књижевност",
+                "tags": ["предмети", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "патка",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Коју боју песник користи да нацрта патку у песми \"Цртанка\"?",
+                "options": [
+                    "Није споменуто",
+                    "Црну",
+                    "Зелену",
+                    "Црвену"
+                ],
+                "type": "књижевност",
+                "tags": ["боје", "ствари"],
+                "grade": 1,
+                "correctAnswerMC": "Није споменуто",
+                "topic": "66eea97adec7c96b57daa4fa"
+            }
+        }
+    ]
+    

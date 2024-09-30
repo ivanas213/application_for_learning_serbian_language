@@ -1,0 +1,36 @@
+{
+  "lessonId": "lesson1",
+  "title": "Introduction to Letters",
+  "contentBlocks": [
+    {
+      "type": "text",
+      "content": "In this lesson, we will learn about the letters A, B, and C.",
+      "style": {
+        "fontSize": 20,
+        "color": "#000000",
+        "bold": true
+      }
+    },
+    {
+      "type": "image",
+      "url": "https://example.com/images/abc.png",
+      "description": "The letters A, B, and C"
+    },
+    {
+      "type": "text",
+      "content": "Can you recognize these letters in the alphabet?",
+      "style": {
+        "fontSize": 18,
+        "color": "#333333",
+        "bold": false
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question": "What letter comes after A?",
+      "options": ["B", "C", "D"],
+      "correctAnswer": "B"
+    }
+  ]
+}

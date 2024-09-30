@@ -1,0 +1,77 @@
+{
+    "title": "Наводници",
+    "description": "",
+    "topic":"66da3ad29d90b9966e86c491",
+    "type":"лекција",
+    "contentBlocks": [
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"<p>Прочитај дати текст и уочи где су све стављени наводници.<br>Ученик сам Основне школе <strong>&bdquo;Вук Караџић&ldquo;</strong>. Волим да читам. Радо одлазим у&nbsp;школску библиотеку у којој се налази велики број књига и часописа. Највише&nbsp;волим да читам бајке. Омиљена бајка ми је <strong>&bdquo;Снежана и седам патуљака&ldquo;</strong>.&nbsp;Библиотекар ми је препоручио да прочитам књиге <strong>&bdquo;Пипи Дуга Чарапа&ldquo;</strong> и<br><strong>&bdquo;Магареће године&ldquo;</strong>. Прочитао сам обе књиге и препоручио другарима да их&nbsp;прочитају. Волим да читам часописе <strong>&bdquo;Школарац&ldquo;</strong> и <strong>&bdquo;Невен&ldquo;</strong>.</p>",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#000000",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        },
+        {
+            "type": "text",
+            "textBlock": {
+                "content":"Наводници се користе за обележавање управног говора, назива књига, назива часописа и назива школа.",
+                "style": {
+                        "fontSize": 24,
+                        "color": "#82e89a",
+                        "bold": false,
+                        "italic": false
+                    },
+                "position": 1
+            }
+        }
+        
+    ]}
+
+    [
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "true_false",
+                "question": "Наводници се користе за обележавање назива књига, часописа и школа.",
+                "type": "граматика",
+                "tags": ["наводници"],
+                "grade": 3,
+                "correctAnswer": true,
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "multiple_choice",
+                "question": "Шта од следећег НЕ спада у употребу наводника?",
+                "options": ["називи школа", "називи књига", "имена ученика", "управни говор"],
+                "type": "граматика",
+                "tags": ["наводници"],
+                "grade": 3,
+                "correctAnswerMC": "имена ученика",
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        },
+    
+        {
+            "type": "question",
+            "questionBlock": {
+                "questionType": "spelling_correction",
+                "question": "Исправи правописне грешке у следећој реченици.",
+                "type": "правопис",
+                "tags": ["наводници", "правопис"],
+                "grade": 3,
+                "incorrectSpelling": "У књижари сам купио књигу Снежана и седам патуљака.",
+                "correctedSpelling": "У књижари сам купио књигу \"Снежана и седам патуљака\".",
+                "topic": "66da3ad29d90b9966e86c491"
+            }
+        }
+    ]
+    
